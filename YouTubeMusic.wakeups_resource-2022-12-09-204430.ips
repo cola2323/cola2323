@@ -1,0 +1,161 @@
+{"app_name":"YouTubeMusic","timestamp":"2022-12-09 20:44:30.00 -0600","app_version":"5.34.2","slice_uuid":"CEA07E2D-D4DD-33B6-81AB-ED4E629E6F55","adam_id":1017492454,"build_version":"5.34.2","bundleID":"com.google.ios.youtubemusic","duration_ms":"33474","share_with_app_devs":0,"is_first_party":0,"bug_type":"142","os_version":"iPhone OS 16.1 (20B82)","incident_id":"615C5C25-A343-4C31-8550-02288D987F47","name":"YouTubeMusic","roots_installed":0}
+Date/Time:        2022-12-09 20:43:56.402 -0600
+End time:         2022-12-09 20:44:29.876 -0600
+OS Version:       iPhone OS 16.1 (Build 20B82)
+Architecture:     arm64e
+Report Version:   40
+Incident Identifier: 615C5C25-A343-4C31-8550-02288D987F47
+
+Data Source:      Microstackshots
+Shared Cache:     D91F3BE4-3285-3AFA-B79C-0C9DB7A3E787 slid base address 0x1cffa4000, slide 0x4ffa4000
+
+Command:          YouTubeMusic
+Path:             /private/var/containers/Bundle/Application/B4BABDBA-C62B-426C-BCAC-74327E447A8D/YouTubeMusic.app/YouTubeMusic
+Identifier:       com.google.ios.youtubemusic
+Version:          5.34.2 (5.34.2)
+Adam ID:          1017492454
+Is First Party:   No
+Beta Identifier:  B19E6B24-D1B8-4274-8DC6-3C5B6FA01368
+Resource Coalition ID: 711
+Architecture:     arm64
+PID:              1625
+
+Event:            wakeups
+Action taken:     none
+Wakeups:          45001 wakeups over the last 33 seconds (1344 wakeups per second average), exceeding limit of 150 wakeups per second over 300 seconds
+Wakeups limit:    45000
+Limit duration:   300s
+Wakeups caused:   45001
+Wakeups duration: 33s
+Duration:         33.47s
+Duration Sampled: 18.04s
+Steps:            6
+
+Hardware model:   iPhone14,6
+Active cpus:      6
+HW page size:     16384
+VM page size:     16384
+
+OS Cryptex File Extents: 37492
+
+Heaviest stack for the target process:
+  3  ??? (libsystem_pthread.dylib + 2968) [0x223d93b98]
+  3  ??? (libsystem_pthread.dylib + 3576) [0x223d93df8]
+  3  ??? (libdispatch.dylib + 93712) [0x1de31ce10]
+  3  ??? (libdispatch.dylib + 49632) [0x1de3121e0]
+  2  ??? (libdispatch.dylib + 46444) [0x1de31156c]
+  2  ??? (libdispatch.dylib + 109144) [0x1de320a58]
+  2  ??? (libdispatch.dylib + 29804) [0x1de30d46c]
+  2  ??? (libdispatch.dylib + 16348) [0x1de309fdc]
+  2  ??? (YouTubeMusic + 20303448) [0x101f20e58]
+  2  ??? (YouTubeMusic + 20303696) [0x101f20f50]
+  2  ??? (YouTubeMusic + 17268172) [0x101c3bdcc]
+  2  ??? (YouTubeMusic + 17267704) [0x101c3bbf8]
+  2  ??? (YouTubeMusic + 17557148) [0x101c8269c]
+  2  ??? (YouTubeMusic + 35742548) [0x102dda354]
+  2  ??? (YouTubeMusic + 35420468) [0x102d8b934]
+  2  ??? (YouTubeMusic + 35403864) [0x102d87858]
+  2  ??? (YouTubeMusic + 31043744) [0x10295f0a0]
+  2  ??? (YouTubeMusic + 30963824) [0x10294b870]
+  2  ??? (YouTubeMusic + 30962916) [0x10294b4e4]
+  2  ??? (YouTubeMusic + 30963112) [0x10294b5a8]
+  2  ??? (YouTubeMusic + 30968548) [0x10294cae4]
+  1  ??? (libsystem_kernel.dylib + 2332) [0x21393191c]
+
+
+Powerstats for:   YouTubeMusic [1625]
+UUID:             CEA07E2D-D4DD-33B6-81AB-ED4E629E6F55
+Path:             /private/var/containers/Bundle/Application/B4BABDBA-C62B-426C-BCAC-74327E447A8D/YouTubeMusic.app/YouTubeMusic
+Identifier:       com.google.ios.youtubemusic
+Version:          5.34.2 (5.34.2)
+Adam ID:          1017492454
+Is First Party:   No
+Beta Identifier:  B19E6B24-D1B8-4274-8DC6-3C5B6FA01368
+Resource Coalition ID: 711
+Architecture:     arm64
+Footprint:        79.12 MB
+Start time:       2022-12-09 20:44:11.175 -0600
+End time:         2022-12-09 20:44:29.219 -0600
+Num samples:      6 (100%)
+Primary state:    2 samples Frontmost App, Non-Suppressed, User mode, Effective Thread QoS User Initiated, Requested Thread QoS Default, Override Thread QoS Unspecified
+User Activity:    0 samples Idle, 6 samples Active
+Power Source:     6 samples on Battery, 0 samples on AC
+  3  ??? (libsystem_pthread.dylib + 2968) [0x223d93b98]
+    3  ??? (libsystem_pthread.dylib + 3576) [0x223d93df8]
+      3  ??? (libdispatch.dylib + 93712) [0x1de31ce10]
+        3  ??? (libdispatch.dylib + 49632) [0x1de3121e0]
+          2  ??? (libdispatch.dylib + 46444) [0x1de31156c]
+            2  ??? (libdispatch.dylib + 109144) [0x1de320a58]
+              2  ??? (libdispatch.dylib + 29804) [0x1de30d46c]
+                2  ??? (libdispatch.dylib + 16348) [0x1de309fdc]
+                  2  ??? (YouTubeMusic + 20303448) [0x101f20e58]
+                    2  ??? (YouTubeMusic + 20303696) [0x101f20f50]
+                      2  ??? (YouTubeMusic + 17268172) [0x101c3bdcc]
+                        2  ??? (YouTubeMusic + 17267704) [0x101c3bbf8]
+                          2  ??? (YouTubeMusic + 17557148) [0x101c8269c]
+                            2  ??? (YouTubeMusic + 35742548) [0x102dda354]
+                              2  ??? (YouTubeMusic + 35420468) [0x102d8b934]
+                                2  ??? (YouTubeMusic + 35403864) [0x102d87858]
+                                  2  ??? (YouTubeMusic + 31043744) [0x10295f0a0]
+                                    2  ??? (YouTubeMusic + 30963824) [0x10294b870]
+                                      2  ??? (YouTubeMusic + 30962916) [0x10294b4e4]
+                                        2  ??? (YouTubeMusic + 30963112) [0x10294b5a8]
+                                          2  ??? (YouTubeMusic + 30968548) [0x10294cae4]
+                                            1  ??? (libsystem_kernel.dylib + 2332) [0x21393191c]
+                                            1  ??? (CoreFoundation + 738304) [0x1d6de4400]
+                                              1  ??? (libsystem_pthread.dylib + 37376) [0x223d9c200]
+                                                1  ??? [0x225821650]
+          1  ??? (libdispatch.dylib + 46740) [0x1de311694]
+            1  ??? (libdispatch.dylib + 16348) [0x1de309fdc]
+              1  ??? (libdispatch.dylib + 9396) [0x1de3084b4]
+                1  ??? (YouTubeMusic + 17562148) [0x101c83a24]
+                  1  ??? (YouTubeMusic + 30440988) [0x1028cbe1c]
+                    1  ??? (YouTubeMusic + 35752588) [0x102ddca8c]
+                      1  ??? (YouTubeMusic + 35743800) [0x102dda838]
+                        1  ??? (YouTubeMusic + 17561196) [0x101c8366c]
+                          1  ??? (YouTubeMusic + 17558820) [0x101c82d24]
+                            1  ??? (YouTubeMusic + 17268040) [0x101c3bd48]
+                              1  ??? (YouTubeMusic + 20302828) [0x101f20bec]
+                                1  ??? (YouTubeMusic + 20303356) [0x101f20dfc]
+                                  1  ??? (libdispatch.dylib + 156656) [0x1de32c3f0]
+                                    1  ??? (libdispatch.dylib + 158364) [0x1de32ca9c]
+                                      1  ??? (libsystem_kernel.dylib + 4636) [0x21393221c]
+                                        1  <Kernel mode, Effective Thread QoS Default>
+  2  ??? (libsystem_pthread.dylib + 2980) [0x223d93ba4]
+    2  ??? (libsystem_pthread.dylib + 5836) [0x223d946cc]
+      2  ??? (YouTubeMusic + 31293800) [0x10299c168]
+        2  ??? (YouTubeMusic + 31112944) [0x10296fef0]
+          2  ??? (YouTubeMusic + 31113212) [0x10296fffc]
+            2  ??? (YouTubeMusic + 31113876) [0x102970294]
+              2  ??? (YouTubeMusic + 31079128) [0x102967ad8]
+                2  ??? (YouTubeMusic + 31080036) [0x102967e64]
+                  2  ??? (YouTubeMusic + 31080800) [0x102968160]
+                    2  ??? (YouTubeMusic + 31080920) [0x1029681d8]
+                      2  ??? (YouTubeMusic + 30919828) [0x102940c94]
+                        2  ??? (YouTubeMusic + 35175676) [0x102d4fcfc]
+                          2  ??? (YouTubeMusic + 35173620) [0x102d4f4f4]
+                            2  ??? (YouTubeMusic + 35226844) [0x102d5c4dc]
+                              2  ??? (YouTubeMusic + 35060516) [0x102d33b24]
+                                2  ??? (YouTubeMusic + 35061696) [0x102d33fc0]
+                                  2  ??? (libsystem_info.dylib + 7200) [0x1e52c2c20]
+                                    2  ??? (libsystem_info.dylib + 18460) [0x1e52c581c]
+                                      2  ??? (libsystem_info.dylib + 71508) [0x1e52d2754]
+                                        2  ??? (libsystem_info.dylib + 61668) [0x1e52d00e4]
+                                          1  ??? (libsystem_info.dylib + 64140) [0x1e52d0a8c]
+                                            1  ??? (libsystem_info.dylib + 22756) [0x1e52c68e4]
+                                              1  ??? (libsystem_dnssd.dylib + 12960) [0x223cf82a0]
+                                                1  ??? (libsystem_kernel.dylib + 54420) [0x21393e494]
+                                                  1  <Effective Thread QoS Unspecified, Requested Thread QoS Unspecified>
+                                          1  ??? (libsystem_info.dylib + 22808) [0x1e52c6918]
+                                            1  <Effective Thread QoS Unspecified, Requested Thread QoS Unspecified>
+  1  ??? (libsystem_pthread.dylib + 2960) [0x223d93b90]
+    1  <Kernel mode, Effective Thread QoS User Interactive, Requested Thread QoS User Interactive>
+
+  Binary Images:
+           0x100bc4000 -                ???  com.google.ios.youtubemusic 5.34.2 (5.34.2) <CEA07E2D-D4DD-33B6-81AB-ED4E629E6F55>  /private/var/containers/Bundle/Application/B4BABDBA-C62B-426C-BCAC-74327E447A8D/YouTubeMusic.app/YouTubeMusic
+           0x1d6d30000 -        0x1d7115fff  CoreFoundation                              <5CDC5D9A-E506-3740-B64E-BB30867B4F1B>  /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+           0x1de306000 -        0x1de34cfff  libdispatch.dylib                           <FEA36690-A000-3C55-B700-9120B05AA69B>  /usr/lib/system/libdispatch.dylib
+           0x1e52c1000 -        0x1e52e6fff  libsystem_info.dylib                        <E9E74869-96C2-35D3-B138-48D0A8564B7B>  /usr/lib/system/libsystem_info.dylib
+           0x213931000 -        0x213967ffb  libsystem_kernel.dylib                      <FF27FC8F-90BA-3332-AB7A-C5BC2D9CA7B1>  /usr/lib/system/libsystem_kernel.dylib
+           0x223cf5000 -        0x223cfdfff  libsystem_dnssd.dylib                       <FEB4C3E9-EA84-3EA2-8FC4-99487CE24C9E>  /usr/lib/system/libsystem_dnssd.dylib
+           0x223d93000 -        0x223d9efff  libsystem_pthread.dylib                     <1AA3A4B6-F9E7-3056-8C8B-4E4DD81312A4>  /usr/lib/system/libsystem_pthread.dylib

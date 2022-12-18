@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:georss="http://www.georss.org/georss" version="2.0">
+<channel>
+<title>Mapbender GeoRSS</title>
+<link>https://www.geoportal.rlp.de/mapbender/frames/login.php</link>
+<description>New and updated WMS</description>
+<item>
+<title>UPDATED WMS: Bad Neuenahr-Ahrweiler (3019)</title>
+<link>https://www.geoportal.rlp.de/wms/3019</link>
+<description>Bebauungspläne und Flächennutzungspläne von Bad Neuenahr-Ahrweiler</description>
+<pubDate>Wed, 14 Dec 2022 08:37:35 +0100</pubDate>
+<georss:box>50.4757 7.05353 50.5836 7.20962</georss:box>
+</item>
+<item>
+<title>UPDATED WMS: Bad Neuenahr-Ahrweiler (3019)</title>
+<link>https://www.geoportal.rlp.de/wms/3019</link>
+<description>Bebauungspläne und Flächennutzungspläne von Bad Neuenahr-Ahrweiler</description>
+<pubDate>Tue, 13 Dec 2022 09:27:18 +0100</pubDate>
+<georss:box>7.05353 50.4757 7.20962 50.5836</georss:box>
+</item>
+<item>
+<title>UPDATED WMS: Bad Neuenahr-Ahrweiler (3019)</title>
+<link>https://www.geoportal.rlp.de/wms/3019</link>
+<description>Bebauungspläne und Flächennutzungspläne von Bad Neuenahr-Ahrweiler</description>
+<pubDate>Tue, 13 Dec 2022 08:50:45 +0100</pubDate>
+<georss:box>50.4757 7.05353 50.5836 7.20962</georss:box>
+</item>
+<item>
+<title>UPDATED WMS: Bad Neuenahr-Ahrweiler (3019)</title>
+<link>https://www.geoportal.rlp.de/wms/3019</link>
+<description>Bebauungspläne und Flächennutzungspläne von Bad Neuenahr-Ahrweiler</description>
+<pubDate>Tue, 13 Dec 2022 08:15:26 +0100</pubDate>
+<georss:box>7.05353 50.4757 7.20962 50.5836</georss:box>
+</item>
+<item>
+<title>NEW WMS: Hochspeyer (4339)</title>
+<link>https://www.geoportal.rlp.de/wms/4339</link>
+<description>Bebauungspläne von Hochspeyer</description>
+<pubDate>Thu, 08 Dec 2022 12:43:29 +0100</pubDate>
+<georss:box>49.3939 7.84655 49.4532 7.94419</georss:box>
+</item>
+<item>
+<title>NEW LAYER: Umringe der Bebauungspläne von Hochspeyer (74467)</title>
+<link>https://www.geoportal.rlp.de/layer/74467</link>
+<description>Umringe aller Bebauungspläne von Hochspeyer</description>
+<pubDate>Thu, 08 Dec 2022 12:43:29 +0100</pubDate>
+<georss:box>49.3939 7.84655 49.4532 7.94419</georss:box>
+</item>
+<item>
+<title>NEW LAYER: Rothental (74466)</title>
+<link>https://www.geoportal.rlp.de/layer/74466</link>
+<description>Das Plangebiet liegt am westlichen Ortsrand</description>
+<pubDate>Thu, 08 Dec 2022 12:43:29 +0100</pubDate>
+<georss:box>49.4399 7.88163 49.4429 7.88885</georss:box>
+</item>
+<item>
+<title>NEW LAYER: SwinGolf-Anlage Geyersberg (74465)</title>
+<link>https://www.geoportal.rlp.de/layer/74465</link>
+<description>Das Plangebiet liegt am nördlichen Ortsrand der Ortsgemeinde Hochspeyer östlich vom Geyersbergerhof und südlich der B 37.</description>
+<pubDate>Thu, 08 Dec 2022 12:43:29 +0100</pubDate>
+<georss:box>49.4461 7.89163 49.45 7.89781</georss:box>
+</item>
+<item>
+<title>NEW LAYER: In den Stockäckern (74464)</title>
+<link>https://www.geoportal.rlp.de/layer/74464</link>
+<description>Das Plangebiet liegt entlang der Friedrich-Fröbel-Straße und der Kirchstraße in der Ortsgemeinde Hochspeyer</description>
+<pubDate>Thu, 08 Dec 2022 12:43:28 +0100</pubDate>
+<georss:box>49.44 7.88646 49.4421 7.89188</georss:box>
+</item>
+<item>
+<title>NEW LAYER: Fischbacherstraße Nord-Ost (74463)</title>
+<link>https://www.geoportal.rlp.de/layer/74463</link>
+<description>Das Plangebiet liegt am östlichen Ortsrand der Ortsgemeinde Hochspeyer</description>
+<pubDate>Thu, 08 Dec 2022 12:43:28 +0100</pubDate>
+<georss:box>49.4467 7.90477 49.4489 7.90821</georss:box>
+</item>
+<item>
+<title>NEW LAYER: Am Mehlweiherkopf (74462)</title>
+<link>https://www.geoportal.rlp.de/layer/74462</link>
+<description>Das Plangebiet liegt nördlich der Hauptstraße in der Ortsgemeinde Hochspeyer</description>
+<pubDate>Thu, 08 Dec 2022 12:43:28 +0100</pubDate>
+<georss:box>49.417 7.87833 49.4447 7.93313</georss:box>
+</item>
+<item>
+<title>NEW LAYER: Im Betzenloch, 1. Änderung (74461)</title>
+<link>https://www.geoportal.rlp.de/layer/74461</link>
+<description>Das Plangebiet liegt am südlichen Ortsrand der Ortsgemeinde Hochspeyer</description>
+<pubDate>Thu, 08 Dec 2022 12:43:28 +0100</pubDate>
+<georss:box>49.4331 7.89006 49.4412 7.90427</georss:box>
+</item>
+<item>
+<title>NEW LAYER: Dienstleistungs- und Gewerbepark - 1. Änderung (74460)</title>
+<link>https://www.geoportal.rlp.de/layer/74460</link>
+<description>Das Plangebiet befindet sich im Westen der Ortslage, unmittelbar südlich der B 37 zwischen Kaiserslautern und Hochspeyer</description>
+<pubDate>Thu, 08 Dec 2022 12:43:27 +0100</pubDate>
+<georss:box>49.4395 7.86805 49.4423 7.87637</georss:box>
+</item>
+<item>
+<title>NEW LAYER: Bebauungspläne (74459)</title>
+<link>https://www.geoportal.rlp.de/layer/74459</link>
+<description>BPLAN.07335015</description>
+<pubDate>Thu, 08 Dec 2022 12:43:27 +0100</pubDate>
+<georss:box>49.3939 7.84655 49.4532 7.94419</georss:box>
+</item>
+<item>
+<title>NEW LAYER: Hochspeyer (74458)</title>
+<link>https://www.geoportal.rlp.de/layer/74458</link>
+<description>Bebauungspläne von Hochspeyer</description>
+<pubDate>Thu, 08 Dec 2022 12:43:27 +0100</pubDate>
+<georss:box>49.3939 7.84655 49.4532 7.94419</georss:box>
+</item>
+</channel>
+</rss>

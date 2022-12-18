@@ -1,0 +1,196 @@
+{"app_name":"com.apple.WebKit.Networking","timestamp":"2022-12-09 19:48:44.00 -0600","app_version":"8614","slice_uuid":"2b1db659-507c-3ad9-9633-320e8b3b0003","build_version":"8614.2.9.0.10","platform":2,"bundleID":"com.apple.WebKit.Networking","share_with_app_devs":0,"is_first_party":1,"bug_type":"309","os_version":"iPhone OS 16.1 (20B82)","roots_installed":0,"name":"com.apple.WebKit.Networking","incident_id":"3C9BEB69-A04E-408D-A028-BDB73A96AD89"}
+{
+  "uptime" : 2700,
+  "procRole" : "Foreground",
+  "version" : 2,
+  "userID" : 501,
+  "deployVersion" : 210,
+  "modelCode" : "iPhone14,6",
+  "coalitionID" : 665,
+  "osVersion" : {
+    "isEmbedded" : true,
+    "train" : "iPhone OS 16.1",
+    "releaseType" : "User",
+    "build" : "20B82"
+  },
+  "captureTime" : "2022-12-09 19:48:42.3419 -0600",
+  "incident" : "3C9BEB69-A04E-408D-A028-BDB73A96AD89",
+  "pid" : 984,
+  "cpuType" : "ARM-64",
+  "roots_installed" : 0,
+  "bug_type" : "309",
+  "procLaunch" : "2022-12-09 19:31:30.7614 -0600",
+  "procStartAbsTime" : 41523352735,
+  "procExitAbsTime" : 66280194046,
+  "procName" : "com.apple.WebKit.Networking",
+  "procPath" : "\/private\/preboot\/Cryptexes\/OS\/System\/Library\/Frameworks\/WebKit.framework\/XPCServices\/com.apple.WebKit.Networking.xpc\/com.apple.WebKit.Networking",
+  "bundleInfo" : {"CFBundleShortVersionString":"8614","CFBundleVersion":"8614.2.9.0.10","CFBundleIdentifier":"com.apple.WebKit.Networking"},
+  "parentProc" : "launchd",
+  "parentPid" : 1,
+  "coalitionName" : "com.apple.SafariViewService",
+  "crashReporterKey" : "ba07dea1e9720100d0354fcb91842da378c8446b",
+  "basebandVersion" : "2.22.03",
+  "vmRegionInfo" : "0x20 is not in any region.  Bytes before following region: 68719476704\n      REGION TYPE                 START - END      [ VSIZE] PRT\/MAX SHRMOD  REGION DETAIL\n      UNUSED SPACE AT START\n--->  \n      commpage (reserved)     1000000000-7000000000 [384.0G] ---\/--- SM=NUL  ...(unallocated)",
+  "exception" : {"codes":"0x0000000000000001, 0x0000000000000020","rawCodes":[1,32],"type":"EXC_BAD_ACCESS","signal":"SIGSEGV","subtype":"KERN_INVALID_ADDRESS at 0x0000000000000020"},
+  "termination" : {"flags":0,"code":11,"namespace":"SIGNAL","indicator":"Segmentation fault: 11","byProc":"exc handler","byPid":984},
+  "vmregioninfo" : "0x20 is not in any region.  Bytes before following region: 68719476704\n      REGION TYPE                 START - END      [ VSIZE] PRT\/MAX SHRMOD  REGION DETAIL\n      UNUSED SPACE AT START\n--->  \n      commpage (reserved)     1000000000-7000000000 [384.0G] ---\/--- SM=NUL  ...(unallocated)",
+  "faultingThread" : 6,
+  "threads" : [{"id":30675,"frames":[{"imageOffset":809628,"imageIndex":0},{"imageOffset":90172,"imageIndex":0},{"imageOffset":13187724,"symbol":"WebCore::ResourceRequest::doUpdatePlatformRequest()","symbolLocation":400,"imageIndex":1},{"imageOffset":13185036,"symbol":"WebCore::ResourceRequest::nsURLRequest(WebCore::HTTPBodyUpdatePolicy) const","symbolLocation":40,"imageIndex":1},{"imageOffset":1445296,"imageIndex":2},{"imageOffset":1456188,"imageIndex":2},{"imageOffset":10447816,"symbol":"__70-[NWURLSessionDelegateWrapper task:_schemeUpgraded:completionHandler:]_block_invoke","symbolLocation":168,"imageIndex":3},{"imageOffset":9396,"imageIndex":4},{"imageOffset":16348,"imageIndex":4},{"imageOffset":75764,"imageIndex":4},{"imageOffset":74820,"imageIndex":4},{"imageOffset":632568,"imageIndex":0},{"imageOffset":507992,"imageIndex":0},{"imageOffset":528084,"imageIndex":0},{"imageOffset":271156,"imageIndex":5},{"imageOffset":270792,"imageIndex":5},{"imageOffset":108492,"imageIndex":6},{"imageOffset":117036,"imageIndex":6},{"imageOffset":2253784,"imageIndex":2},{"imageOffset":88416,"imageIndex":7}]},{"id":30679,"name":"JavaScriptCore libpas scavenger","frames":[{"imageOffset":5148,"imageIndex":8},{"imageOffset":1008420,"imageIndex":9},{"imageOffset":5836,"imageIndex":10},{"imageOffset":2980,"imageIndex":10}]},{"id":30681,"frames":[{"imageOffset":2960,"imageIndex":10}]},{"id":30682,"frames":[{"imageOffset":2960,"imageIndex":10}]},{"id":30683,"frames":[{"imageOffset":2960,"imageIndex":10}]},{"id":30690,"name":"com.apple.NSURLConnectionLoader","frames":[{"imageOffset":2888,"imageIndex":8},{"imageOffset":78408,"imageIndex":8},{"imageOffset":4236,"imageIndex":8},{"imageOffset":502512,"imageIndex":0},{"imageOffset":507188,"imageIndex":0},{"imageOffset":528084,"imageIndex":0},{"imageOffset":2450856,"imageIndex":11},{"imageOffset":374792,"imageIndex":5},{"imageOffset":5836,"imageIndex":10},{"imageOffset":2980,"imageIndex":10}]},{"triggered":true,"id":30693,"threadState":{"x":[{"value":25011879568},{"value":158406649572252881,"symbolLocation":158406640213688321,"symbol":"OBJC_CLASS_$_NWConcrete_nw_hsts_storage"},{"value":0},{"value":25012023040},{"value":16},{"value":25012022928},{"value":11},{"value":1},{"value":25011879568},{"value":0},{"value":9479638360},{"value":1},{"value":1110656},{"value":25833600462450224},{"value":35381743775248057,"symbolLocation":35381734426017793,"symbol":"OBJC_CLASS_$_NWConcrete_nw_protocol_options"},{"value":9349230264,"symbolLocation":0,"symbol":"OBJC_CLASS_$_NWConcrete_nw_protocol_options"},{"value":0},{"value":2},{"value":0},{"value":25012827888},{"value":25012024192},{"value":25012024528},{"value":25012024520},{"value":9348698112},{"value":9301934080},{"value":1},{"value":7916384186},{"value":25007766096},{"value":9302560768,"symbolLocation":56,"symbol":"_OBJC_PROTOCOL_$_OS_nw_protocol_data_array"}],"flavor":"ARM_THREAD_STATE64","lr":{"value":7913248340},"cpsr":{"value":4096},"fp":{"value":6093234032},"sp":{"value":6093233936},"esr":{"value":2449473542,"description":"(Data Abort) byte read Translation fault"},"pc":{"value":7785019892,"matchesCrashFrame":1},"far":{"value":32}},"frames":[{"imageOffset":14836,"imageIndex":12},{"imageOffset":2160960,"symbol":"-[NWConcrete_nw_protocol_options dealloc]","symbolLocation":52,"imageIndex":3},{"imageOffset":7337300,"symbol":"nw_array_dispose","symbolLocation":548,"imageIndex":3},{"imageOffset":3718572,"symbol":"-[OS_nw_array dealloc]","symbolLocation":28,"imageIndex":3},{"imageOffset":3237020,"symbol":"-[NWConcrete_nw_protocol_stack .cxx_destruct]","symbolLocation":92,"imageIndex":3},{"imageOffset":5284,"imageIndex":12},{"imageOffset":25240,"imageIndex":12},{"imageOffset":63892,"imageIndex":12},{"imageOffset":3237100,"symbol":"-[NWConcrete_nw_protocol_stack dealloc]","symbolLocation":44,"imageIndex":3},{"imageOffset":3239344,"symbol":"-[NWConcrete_nw_parameters .cxx_destruct]","symbolLocation":104,"imageIndex":3},{"imageOffset":5284,"imageIndex":12},{"imageOffset":25240,"imageIndex":12},{"imageOffset":63892,"imageIndex":12},{"imageOffset":3277264,"symbol":"-[NWConcrete_nw_parameters dealloc]","symbolLocation":84,"imageIndex":3},{"imageOffset":5284,"imageIndex":12},{"imageOffset":25240,"imageIndex":12},{"imageOffset":63892,"imageIndex":12},{"imageOffset":1202344,"symbol":"-[NWConcrete_nw_resolver dealloc]","symbolLocation":2788,"imageIndex":3},{"imageOffset":4705412,"symbol":"-[NWConcrete_nw_endpoint_resolver cancelWithHandler:forced:]","symbolLocation":232,"imageIndex":3},{"imageOffset":4754884,"symbol":"nw_endpoint_handler_cancel","symbolLocation":1052,"imageIndex":3},{"imageOffset":10841324,"symbol":"-[NWConcrete_nw_endpoint_flow cancelWithHandler:forced:]","symbolLocation":1000,"imageIndex":3},{"imageOffset":4800848,"symbol":"nw_endpoint_handler_handle_failure","symbolLocation":100,"imageIndex":3},{"imageOffset":10756348,"symbol":"nw_endpoint_flow_receive_report","symbolLocation":9840,"imageIndex":3},{"imageOffset":4756616,"symbol":"nw_endpoint_handler_report","symbolLocation":320,"imageIndex":3},{"imageOffset":4696788,"symbol":"nw_endpoint_resolver_receive_report","symbolLocation":4524,"imageIndex":3},{"imageOffset":4756616,"symbol":"nw_endpoint_handler_report","symbolLocation":320,"imageIndex":3},{"imageOffset":10698720,"symbol":"nw_endpoint_flow_failed_with_error","symbolLocation":1620,"imageIndex":3},{"imageOffset":9396,"imageIndex":4},{"imageOffset":16348,"imageIndex":4},{"imageOffset":54816,"imageIndex":4},{"imageOffset":93712,"imageIndex":4},{"imageOffset":3576,"imageIndex":10},{"imageOffset":2968,"imageIndex":10}]},{"id":30951,"frames":[{"imageOffset":2960,"imageIndex":10}]},{"id":44928,"frames":[{"imageOffset":2960,"imageIndex":10}]},{"id":44934,"frames":[{"imageOffset":2960,"imageIndex":10}]},{"id":44942,"frames":[{"imageOffset":2960,"imageIndex":10}]}],
+  "usedImages" : [
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 7899119616,
+    "size" : 4087808,
+    "uuid" : "5cdc5d9a-e506-3740-b64e-bb30867b4f1b",
+    "path" : "\/System\/Library\/Frameworks\/CoreFoundation.framework\/CoreFoundation",
+    "name" : "CoreFoundation"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 8169807872,
+    "size" : 40480768,
+    "uuid" : "d243ecf0-fbc2-3695-9b5a-6f661caae5c0",
+    "path" : "\/System\/Library\/PrivateFrameworks\/WebCore.framework\/WebCore",
+    "name" : "WebCore"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 8210288640,
+    "size" : 12771328,
+    "uuid" : "743eafb4-d052-3c44-9307-9246b559b7c0",
+    "path" : "\/System\/Library\/Frameworks\/WebKit.framework\/WebKit",
+    "name" : "WebKit"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 7903207424,
+    "size" : 14270464,
+    "uuid" : "3bf445f9-d58f-3280-b9c9-2feaf4daca6d",
+    "path" : "\/System\/Library\/Frameworks\/Network.framework\/Network",
+    "name" : "Network"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 8022679552,
+    "size" : 290816,
+    "uuid" : "fea36690-a000-3c55-b700-9120b05aa69b",
+    "path" : "\/usr\/lib\/system\/libdispatch.dylib",
+    "name" : "libdispatch.dylib"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 7802568704,
+    "size" : 9740288,
+    "uuid" : "c431acb6-fe04-3d28-b677-4de6e1c7d81f",
+    "path" : "\/System\/Library\/Frameworks\/Foundation.framework\/Foundation",
+    "name" : "Foundation"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 9191649280,
+    "size" : 266240,
+    "uuid" : "3da8df73-8d34-32e3-8bcd-7dc8dbb43a1e",
+    "path" : "\/usr\/lib\/system\/libxpc.dylib",
+    "name" : "libxpc.dylib"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 8409591808,
+    "size" : 536592,
+    "uuid" : "cb3ff411-4762-34d2-86a4-eca13f9fb6c3",
+    "path" : "\/usr\/lib\/dyld",
+    "name" : "dyld"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 8918339584,
+    "size" : 225276,
+    "uuid" : "ff27fc8f-90ba-3332-ab7a-c5bc2d9ca7b1",
+    "path" : "\/usr\/lib\/system\/libsystem_kernel.dylib",
+    "name" : "libsystem_kernel.dylib"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 8223817728,
+    "size" : 21741568,
+    "uuid" : "d309aa36-b494-3228-be7d-44e5674ed663",
+    "path" : "\/System\/Library\/Frameworks\/JavaScriptCore.framework\/JavaScriptCore",
+    "name" : "JavaScriptCore"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 9191370752,
+    "size" : 49152,
+    "uuid" : "1aa3a4b6-f9e7-3056-8c8b-4e4dd81312a4",
+    "path" : "\/usr\/lib\/system\/libsystem_pthread.dylib",
+    "name" : "libsystem_pthread.dylib"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 7917477888,
+    "size" : 3964928,
+    "uuid" : "edb0559f-c996-327f-9b3a-6616e316f24d",
+    "path" : "\/System\/Library\/Frameworks\/CFNetwork.framework\/CFNetwork",
+    "name" : "CFNetwork"
+  },
+  {
+    "source" : "P",
+    "arch" : "arm64e",
+    "base" : 7785005056,
+    "size" : 278048,
+    "uuid" : "ab79707f-af64-3ba5-8899-3b711c6cff5c",
+    "path" : "\/usr\/lib\/libobjc.A.dylib",
+    "name" : "libobjc.A.dylib"
+  },
+  {
+    "size" : 0,
+    "source" : "A",
+    "base" : 0,
+    "uuid" : "00000000-0000-0000-0000-000000000000"
+  }
+],
+  "sharedCache" : {
+  "base" : 7784251392,
+  "size" : 2896461824,
+  "uuid" : "d91f3be4-3285-3afa-b79c-0c9db7a3e787"
+},
+  "vmSummary" : "ReadOnly portion of Libraries: Total=739.1M resident=0K(0%) swapped_out_or_unallocated=739.1M(100%)\nWritable regions: Total=297.8M written=0K(0%) resident=0K(0%) swapped_out=0K(0%) unallocated=297.8M(100%)\n\n                                VIRTUAL   REGION \nREGION TYPE                        SIZE    COUNT (non-coalesced) \n===========                     =======  ======= \nActivity Tracing                   256K        1 \nDispatch continuations            6144K        1 \nKernel Alloc Once                   32K        1 \nMALLOC                            58.8M       38 \nMALLOC guard page                  128K        8 \nSQLite page cache                  768K        6 \nSTACK GUARD                        176K       11 \nStack                             6448K       11 \nWebKit Malloc                    192.1M        6 \nWebKit Malloc (reserved)          32.0M        1         reserved VM address space (unallocated)\n__AUTH                            1773K      287 \n__AUTH_CONST                      16.6M      444 \n__CTF                               756        1 \n__DATA                            4194K      430 \n__DATA_CONST                      19.7M      450 \n__DATA_DIRTY                      1578K      367 \n__FONT_DATA                        2352        1 \n__LINKEDIT                       303.7M        2 \n__OBJC_CONST                      3576K      272 \n__OBJC_RO                         78.4M        1 \n__OBJC_RW                         2428K        1 \n__TEXT                           435.4M      456 \ndyld private memory                256K        1 \nlibnetwork                        1664K       24 \nmapped file                       30.9M        8 \nshared memory                       32K        2 \n===========                     =======  ======= \nTOTAL                              1.2G     2831 \nTOTAL, minus reserved VM space     1.1G     2831 \n",
+  "legacyInfo" : {
+  "threadTriggered" : {
+
+  }
+},
+  "trialInfo" : {
+  "rollouts" : [
+    {
+      "rolloutId" : "61675b89201f677a9a4cbd65",
+      "factorPackIds" : {
+        "HEALTH_FEATURE_AVAILABILITY" : "63605e98c8a2104545a56f10"
+      },
+      "deploymentId" : 240000045
+    },
+    {
+      "rolloutId" : "6112e3d2fc54bc3389840661",
+      "factorPackIds" : {
+        "SIRI_TEXT_TO_SPEECH" : "6351d476e4c9db3c7c8f486b"
+      },
+      "deploymentId" : 240000234
+    }
+  ],
+  "experiments" : [
+
+  ]
+}
+}

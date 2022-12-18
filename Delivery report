@@ -1,0 +1,11 @@
+Reporting-MTA: dns; st43p00im-ztdg10073201.me.com
+X-Postfix-Queue-ID: BA1089A0854
+X-Postfix-Sender: rfc822; c01a651mn@icloud.com
+Arrival-Date: Fri, 16 Dec 2022 04:57:25 +0000 (UTC)
+
+Final-Recipient: rfc822; *******@**************
+Original-Recipient: rfc822;private@foo.apache.org
+Action: failed
+Status: 5.4.4
+Diagnostic-Code: X-Postfix; Host or domain name not found. Name service error
+    for name=foo.apache.org type=A: Host not found

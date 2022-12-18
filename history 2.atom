@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:status.ookla.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://status.ookla.com"/>
+  <link rel="self" type="application/atom+xml" href="https://status.ookla.com/history.atom"/>
+  <title>Ookla Status - Incident History</title>
+  <updated>2022-11-30T17:23:35-08:00</updated>
+  <author>
+    <name>Ookla</name>
+  </author>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/14042910</id>
+    <published>2022-11-30T17:18:42-08:00</published>
+    <updated>2022-11-30T17:18:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/w0xgvf2q5zg3"/>
+    <title>Speedtest Intelligence Logins</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;17:18&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;17:06&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are aware of an issue logging into Speedtest Intelligence and are investigating.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/11179031</id>
+    <published>2022-09-19T06:20:42-07:00</published>
+    <updated>2022-09-19T06:20:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/1p0pzmkzwzgn"/>
+    <title>Maps not working</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;06:20&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;06:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;06:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An issue at our maps provider is impacting us from serving maps in some of our products.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/9899158</id>
+    <published>2022-05-02T21:35:07-07:00</published>
+    <updated>2022-05-02T21:35:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/249tk6hjz0gx"/>
+    <title>RootMetrics products impacted on Google Chrome</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;21:35&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been completely resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;18:24&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Rootmetrics.com, Login, RootInsights, and Export API are now updated to use an alternate certificate and now load correctly in Google Chrome.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;15:34&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - An issue has been identified that is causing a partial outage on RootMetrics products when accessed by Google Chrome. &lt;br /&gt;&lt;br /&gt;This has been identified as an external issue caused by a Certificate Issuer and Google Chrome. Please use an alternate browser in the interim if required. &lt;br /&gt;&lt;br /&gt;The team is working on a temporary fix while the root cause is addressed by Google. Other Speedtest and Ookla systems are operating normally.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/9896683</id>
+    <published>2022-05-02T08:29:04-07:00</published>
+    <updated>2022-05-02T08:29:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/w7296327504b"/>
+    <title>Degraded performance on Speedtest.net</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;08:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident is now fully resolved. We identified an issue with the configuration of a backend dependency. The Ookla engineering team is continuing to monitor.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;08:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An issue has been identified that is causing a partial outage on Speedtest.net. The Ookla engineering team has identified the problem and is working on a fix. Other Speedtest and Ookla systems are operating normally.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/9824667</id>
+    <published>2022-04-20T20:27:20-07:00</published>
+    <updated>2022-04-20T20:27:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/kxsp6xkcwd5s"/>
+    <title>Speedtest Intelligence timing out</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;20:27&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;20:16&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been identified and implemented. Speedtest Intelligence has returned to normal service. The Ookla engineering team continues to monitor to ensure that no further problems are experienced.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;19:58&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - The Speedtest Intelligence analytics portal is experiencing timeouts when accessing certain page elements. The Ookla engineering team is actively investigating and will update this page as the status changes.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/9437732</id>
+    <published>2022-03-02T08:47:15-08:00</published>
+    <updated>2022-03-02T08:47:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/gp0wbxvb6z5z"/>
+    <title>Delayed Processing - Data Extracts</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;08:47&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;10:42&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are investigating issues related to Data Extracts&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/8855592</id>
+    <published>2021-12-15T08:06:59-08:00</published>
+    <updated>2021-12-15T08:06:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/hpbd6kn1q411"/>
+    <title>Provider Connectivity issue</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;08:06&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;07:59&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Dec &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;07:57&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - A Provider Connectivity issue has disrupted the availability of Speedtest consumer, Enterprise, and intelligence. Ookla has switched to a secondary site. During this time, Speedtest results may not persist.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/8150193</id>
+    <published>2021-10-04T12:40:34-07:00</published>
+    <updated>2021-10-04T12:40:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/f3t6dmg0lbxf"/>
+    <title>Speedtest.net outage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;12:40&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident is now fully resolved. The Ookla engineering team continue to closely monitor global internet traffic patterns.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;10:22&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - All systems are fully operational, and the Ookla engineering team is continuing to monitor. Please see https://downdetector.com/ for continued status on the global service outages that contributed to this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;09:10&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Speedtest.net is operational, but in a state of degraded performance. The Ookla engineering team is continuing to manage the systems and return the services to full performance.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Oct &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;08:52&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Speedtest.net and associated Speedtest applications are experiencing an outage. The Ookla engineering team is investigating and will keep this status page updated&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/8103070</id>
+    <published>2021-09-28T09:59:51-07:00</published>
+    <updated>2021-09-28T09:59:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/zqn8drhcbwpq"/>
+    <title>Partial Outage at our Authentication Provider Causing Slow Logins</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:36&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Our authentication provider has implemented a fix and performance has returned to normal.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;09:03&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An issue at our authentication provider is impacting logins to our enterprise sites. It may take up to 25 seconds for authentication to succeed. Our provider has identified the issue and is working on a resolution.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/8056033</id>
+    <published>2021-09-22T12:45:15-07:00</published>
+    <updated>2021-09-22T12:45:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/zfthmytg99m5"/>
+    <title>Some Speedtest servers unavailable on speedtest.net and Speedtest Custom due to TLS certificate errors</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;12:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue impacting TLS certificates for some Speedtest.net servers is now resolved. If you are still experiencing a problem with your server, please contact the Ookla server support team.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;12:04&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;11:29&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented. Impacted servers are again receiving updated TLS certificates automatically.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;08:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The Ookla engineering team is investigating an issue impacting a portion of the Speedtest Server network servers due to a TLS certificate issue. These servers are available and performing normally for Speedtest mobile and desktop apps but are currently unavailable for web-based tests, including speedtest.net and Speedtest Custom.&lt;br /&gt;&lt;br /&gt;The engineering team has identified the cause and are currently working on a fix.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/7949822</id>
+    <published>2021-09-09T11:59:30-07:00</published>
+    <updated>2021-09-09T11:59:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/shf63zc547tt"/>
+    <title>Some Speedtest.net website users experiencing missing test results</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;11:59&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The issue impacting a subset of user's historical Speedtest.net results history is now resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - Some users of the Speedtest.net website are currently unable to view their previous Speedtest results via the "Results History" section of the site. The engineering team has identified the issue and are working on a fix. Other aspects of the Speedtest.net website continue to function normally, and Speedtest results continue to provide accurate measurements.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/7885294</id>
+    <published>2021-08-31T15:15:30-07:00</published>
+    <updated>2021-08-31T15:15:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/698mjy8jpftg"/>
+    <title>Outage at our Authentication Provider Preventing Some Enterprise and Intelligence Service Logins</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;15:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;13:48&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;12:22&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;12:22&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;12:21&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;12:18&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;12:18&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Aug &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;12:18&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Our Authentication provider is currently experiencing an outage that may cause some logons to fail for Speedtest Intelligence and Speedtest Enterprise Dashboards. We are aware of the issue and are working with our provider to resolve the issue as quickly as possible.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/7195868</id>
+    <published>2021-06-08T04:22:26-07:00</published>
+    <updated>2021-06-08T04:22:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/wg9vy9v3rjtj"/>
+    <title>Speedtest Outage due to failure of content delivery network</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;04:22&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - Speedtest.net and associated services, including all Speedtest mobile apps, have returned to normal operations. Our engineering team is continuing to monitor.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Speedtest.net and associated services, including all Speedtest mobile apps, have returned to normal operations. Our primary CDN provider has identified the underlying issue, and a fix has been implemented.&lt;br /&gt; &lt;br /&gt;If you are still receiving errors visiting one of our web properties, please refresh, clear cache, or try restarting your browser.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:10&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - User are experiencing are experiencing errors connecting to &lt;br /&gt;&lt;br /&gt;Speedtest.net&lt;br /&gt;Speedtest Custom&lt;br /&gt;Speedtest Enterprise&lt;br /&gt;Speedtest Web&lt;br /&gt;Speedtest Intelligence&lt;br /&gt;&lt;br /&gt;Downdetector comments may be unavailable at this time.&lt;br /&gt;&lt;br /&gt;This is due to a failure at our Content Delivery Network provider that is currently being investigated.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/7163363</id>
+    <published>2021-06-04T11:22:03-07:00</published>
+    <updated>2021-06-04T11:22:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/yfm473zd498g"/>
+    <title>Delay in processing of Mobile Coverage data</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 4&lt;/var&gt;, &lt;var data-var='time'&gt;11:22&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 3&lt;/var&gt;, &lt;var data-var='time'&gt;21:25&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/7123126</id>
+    <published>2021-05-30T13:53:26-07:00</published>
+    <updated>2021-05-30T13:53:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/zhkgffw3t660"/>
+    <title>Partial Speedtest Outage on Certain Platforms</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;13:53&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been verified resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;06:13&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;05:50&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;05:33&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and we are working on a resolution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;05:26&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We're currently experiencing intermittent issues on certain platforms:&lt;br /&gt;&lt;br /&gt;Web&lt;br /&gt;Enterprise&lt;br /&gt;Embedded&lt;br /&gt;CLI&lt;br /&gt;&lt;br /&gt;Test results are currently not being saved.&lt;br /&gt;&lt;br /&gt;The Speedtest engineering team has isolated the cause and is currently working to resolve the issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/7114349</id>
+    <published>2021-05-28T23:17:09-07:00</published>
+    <updated>2021-05-28T23:17:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/xn6n2qf1zhpm"/>
+    <title>Speedtest Test Result Save Failure on Certain Platforms</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;23:17&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;20:02&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented. Speedtest platforms are being monitored to confirm resolution.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;20:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - Speedtest Test Results may fail to save for the following platforms:&lt;br /&gt;&lt;br /&gt;Web&lt;br /&gt;Enterprise&lt;br /&gt;Embedded&lt;br /&gt;CLI&lt;br /&gt;&lt;br /&gt;The Speedtest engineering team has isolated the cause and is currently working to resolve the issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/7088877</id>
+    <published>2021-05-26T03:35:51-07:00</published>
+    <updated>2021-05-26T03:35:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/fp5ckxlsl1cd"/>
+    <title>Intermittent errors on speedtest.net</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:35&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:24&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;03:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix is being implemented.&lt;/p&gt;&lt;p&gt;&lt;small&gt;May &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;01:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/6796741</id>
+    <published>2021-04-20T14:35:26-07:00</published>
+    <updated>2021-04-20T14:35:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/51wkyw2vtstv"/>
+    <title>Outage at our Authentication Provider Preventing Logins</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:35&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;14:34&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Auth0 has now restored the affected regions of @auth0 for US-1.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;13:34&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Auth0 continues to see customers that have moved to degraded performance. Systems are recovering.Auth0 is continuing to dedicate their full team's efforts on restoring services for all customers impacted by this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;13:09&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The Auth0 team is continuing to work on restoring services for their outage. The entire Auth0 technical and engineering teams are taking this as an all hands on deck situation to find resolution.  Users who are logged in are not impacted by this incident.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;12:47&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;12:46&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Apr &lt;var data-var='date'&gt;20&lt;/var&gt;, &lt;var data-var='time'&gt;09:14&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - An outage affecting our Authentication provider Auth0 is currently preventing logins to our Speedtest Intelligence portal and to our Speedtest Custom dashboard. The customer Speedtest Custom sites are unaffected. We are monitoring the situation as Auth0 engineers are working on this issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/6571626</id>
+    <published>2021-03-19T11:25:01-07:00</published>
+    <updated>2021-03-19T11:25:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/9ccmjcwfvfqq"/>
+    <title>Speedtest.net outage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:25&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:10&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;10:55&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - The Ookla engineering team has identified an issue causing an outage on Speedtest.net due to an underlying systems error. Updates will be provided here.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/6547753</id>
+    <published>2021-03-16T16:24:11-07:00</published>
+    <updated>2021-03-16T16:24:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/x1dwc4xjht1b"/>
+    <title>Speedtest.net outage</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;16:24&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;16:24&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - Speedtest.net and associated services have been restored to full operability and performance. The underlying systems failure will be analyzed to isolate the root cause and improve the automatic recovery process.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;16:15&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - The underlying systems issue has been repaired, and the engineering team is working to ensure that all services are restored to full performance&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;16:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Update&lt;/strong&gt; - We are continuing to work on a fix for this issue.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;16:05&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Identified&lt;/strong&gt; - The Ookla engineering team has identified an issue causing an outage on Speedtest.net due to an underlying systems error. Updates will be provided here.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/6420591</id>
+    <published>2021-02-28T13:26:39-08:00</published>
+    <updated>2021-02-28T13:26:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/mdfllkl91ltb"/>
+    <title>Speedtest Intelligence Data Aggregation Delay for 2021-02-27</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;13:26&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;08:56&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Some of the data processing jobs for the performance aggregates failed to run last night. This has resulted in aggregation data processing being delayed for the for the date: 2021-02-27. The data will appear in the Speedtest Intelligence portal when the data processing jobs are complete.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/5545060</id>
+    <published>2020-11-11T17:56:56-08:00</published>
+    <updated>2020-11-11T17:56:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/3jxdbyxg1sfr"/>
+    <title>Incident impacting Speedtest.net</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;17:56&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - All Speedtest services continue to be stable after a brief incident earlier today. This issue is now resolved, and the Ookla engineering team is continuing to monitor.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Nov &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;17:03&lt;/var&gt; PST&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - Speedtest.net and associated services were briefly impacted by slowness and service timeouts between 2020-11-12 00:11:00 and 2020-11-12 00:26:20 UTC today. The Ookla engineering team has mitigated the issue and is continuing to actively monitor all services.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/5183747</id>
+    <published>2020-09-25T23:54:36-07:00</published>
+    <updated>2020-09-25T23:54:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/mslwtchfqytg"/>
+    <title>Brief performance issues and timeouts on Speedtest services due to database issue</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;23:54&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The incident causing slowness and timeouts on Speedtest and related services has been fully resolved. The Speedtest engineering team will continue to monitor service health to ensure no further issues are experienced.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Sep &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;23:41&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - The Speedtest engineering team has identified and resolved a problem that briefly caused slowness and timeouts on speedtest.net and associated services. We are continuing to monitor performance to ensure that no further impact is experienced.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/4644291</id>
+    <published>2020-07-17T14:45:40-07:00</published>
+    <updated>2020-07-17T14:45:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/pzk0kqnm5cz5"/>
+    <title>Downdetector not reachable due to upstream CDN issues</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:45&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:37&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and we are monitoring the results.&lt;/p&gt;&lt;p&gt;&lt;small&gt;Jul &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;14:32&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Investigating&lt;/strong&gt; - We are currently investigating this issue.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.ookla.com,2005:Incident/4326187</id>
+    <published>2020-06-09T19:01:52-07:00</published>
+    <updated>2020-06-09T19:01:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://status.ookla.com/incidents/hhbpw2lvl6bd"/>
+    <title>Intermittent errors on Downdetector.com</title>
+    <content type="html">&lt;p&gt;&lt;small&gt;Jun &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;19:01&lt;/var&gt; PDT&lt;/small&gt;&lt;br&gt;&lt;strong&gt;Resolved&lt;/strong&gt; - The Downdetector website including downdetector.com experienced a partial outage from 23:12 UTC on 06-June through 00:05 UTC on 07-June (53 minutes) due to a backend systems issue. During this time, end users of Downdetector may have received intermittent errors or timeouts when accessing the site, while others experienced degraded site performance. Full service was restored at 07-June at 00:05 UTC. During this period, report volumes would have been reduced as some users were unable to report service outages.&lt;/p&gt;</content>
+  </entry>
+</feed>

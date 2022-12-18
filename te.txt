@@ -1,0 +1,1593 @@
+Open source licenses
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Component Name: cordova-plugin-appsflyer
+Website: https://www.npmjs.org/package/cordova-plugin-appsflyer
+License: Apache License 2.0
+--------------------------------------------------------------------------
+Component Name: Firebase iOS
+Website: https://firebase.google.com/download/ios
+License: Apache License 2.0
+--------------------------------------------------------------------------
+Component Name: firebase-ios-sdk
+Website: http://github.com/firebase/firebase-ios-sdk/
+License: Apache License 2.0
+--------------------------------------------------------------------------
+Component Name: Google Analytics SDK for iOS
+Website: https://developers.google.com/analytics/devguides/collection/ios/v3/
+License: Apache License 2.0
+--------------------------------------------------------------------------
+Component Name: litehandbook
+Website: http://code.google.com/p/litehandbook/
+License: Apache License 2.0
+--------------------------------------------------------------------------
+Component Name: photocity
+Website: http://code.google.com/p/photocity/
+License: Apache License 2.0
+--------------------------------------------------------------------------
+Component Name: PLPlayerKit
+Website: https://github.com/pili-engineering/PLPlayerKit
+License: Apache License 2.0
+--------------------------------------------------------------------------
+Component Name: reazy-native-auth-facebook
+Website: http://github.com/GeekyAnts/reazy-native-auth-facebook/
+License: Apache License 2.0
+--------------------------------------------------------------------------
+Component Name: RestKit for iOS
+Website: http://github.com/RestKit/RestKit/
+License: Apache License 2.0
+--------------------------------------------------------------------------
+Component Name: three20
+Website: http://github.com/facebook/three20/
+License: Apache License 2.0
+--------------------------------------------------------------------------
+
+Apache License
+
+Version 2.0, January 2004
+
+http://www.apache.org/licenses/
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+
+"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+
+"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
+"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+
+"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+
+"Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+
+You must give any other recipients of the Work or Derivative Works a copy of this License; and
+
+You must cause any modified files to carry prominent notices stating that You changed the files; and
+
+You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+
+If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+
+END OF TERMS AND CONDITIONS
+
+APPENDIX: How to apply the Apache License to your work
+To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets "[]" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.
+
+Copyright [yyyy] [name of copyright owner] Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Component Name: Apple iOS Developer Library
+Website: https://developer.apple.com/
+License: Apple MIT License
+--------------------------------------------------------------------------
+Component Name: Apple Metal Sample Code
+Website: https://developer.apple.com/metal/
+License: Apple MIT License
+--------------------------------------------------------------------------
+Component Name: Apple MetalArrayTexture
+Website: https://developer.apple.com/library/archive/samplecode/MetalArrayTexture/Introduction/Intro.html
+License: Apple MIT License
+--------------------------------------------------------------------------
+Component Name: CocoaSampleCode
+Website: http://github.com/darcyliu/CocoaSampleCode/
+License: Apple MIT License
+--------------------------------------------------------------------------
+Component Name: CryptoExercise
+Website: https://developer.apple.com/library/ios/samplecode/CryptoExercise/Introduction/Intro.html#/apple_ref/doc/uid/DTS40008019-Intro-DontLinkElementID_2
+License: Apple MIT License
+--------------------------------------------------------------------------
+Component Name: SimplePing
+Website: https://developer.apple.com/library/archive/samplecode/SimplePing/Introduction/Intro.html
+License: Apple MIT License
+--------------------------------------------------------------------------
+
+Apple MIT License
+
+Disclaimer: IMPORTANT: This Apple software is supplied to you by Apple Computer, Inc.
+
+("Apple") in consideration of your agreement to the following terms, and your use, installation, modification or redistribution of this Apple software constitutes acceptance of these terms. If you do not agree with these terms, please do not use, install, modify or redistribute this Apple software.
+
+In consideration of your agreement to abide by the following terms, and subject to these terms, Apple grants you a personal, non-exclusive license, under Apple's copyrights in this original Apple software (the "Apple Software"), to use, reproduce, modify and redistribute the Apple Software, with or without modifications, in source and/or binary forms; provided that if you redistribute the Apple Software in its entirety and without modifications, you must retain this notice and the following text and disclaimers in all such redistributions of the Apple Software. Neither the name, trademarks, service marks or logos of Apple Computer, Inc. may be used to endorse or promote products derived from the Apple Software without specific prior written permission from Apple. Except as expressly stated in this notice, no other rights or licenses, express or implied, are granted by Apple herein, including but not limited to any patent rights that may be infringed by your derivative works or by other works in which the Apple Software may be incorporated.
+
+The Apple Software is provided by Apple on an "AS IS" basis. APPLE MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, REGARDING THE APPLE SOFTWARE OR ITS USE AND OPERATION ALONE OR IN COMBINATION WITH YOUR PRODUCTS.
+
+IN NO EVENT SHALL APPLE BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) ARISING IN ANY WAY OUT OF THE USE, REPRODUCTION, MODIFICATION AND/OR DISTRIBUTION OF THE APPLE SOFTWARE, HOWEVER CAUSED AND WHETHER UNDER THEORY OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Component Name: Xcode by Apple
+Website: https://developer.apple.com/xcode/
+License: Apple Public Source License 1.1
+
+Disclaimer: APPLE PUBLIC SOURCE LICENSE
+Version 1.1 - April 19, 1999
+
+Please read this License carefully before downloading this software.
+By downloading and using this software, you are agreeing to be bound
+by the terms of this License. If you do not or cannot agree to the
+terms of this License, please do not download or use the software.
+
+1. General; Definitions. This License applies to any program or
+other work which Apple Computer, Inc. ("Apple") publicly announces
+as subject to this Apple Public Source License and which contains a
+notice placed by Apple identifying such program or work as "Original
+Code" and stating that it is subject to the terms of this Apple
+Public Source License version 1.1 (or subsequent version thereof),
+as it may be revised from time to time by Apple ("License"). As used
+in this License:
+
+1.1 "Affected Original Code" means only those specific portions of
+Original Code that allegedly infringe upon any partyâ€™s intellectual
+property rights or are otherwise the subject of a claim of
+infringement.
+
+1.2 "Applicable Patent Rights" mean: (a) in the case where Apple is
+the grantor of rights, (i) claims of patents that are now or
+hereafter acquired, owned by or assigned to Apple and (ii) that
+cover subject matter contained in the Original Code, but only to
+the extent necessary to use, reproduce and/or distribute the
+Original Code without infringement; and (b) in the case where You
+are the grantor of rights, (i) claims of patents that are now or
+hereafter acquired, owned by or assigned to You and (ii) that cover
+subject matter in Your Modifications, taken alone or in combination
+with Original Code.
+
+1.3 "Covered Code" means the Original Code, Modifications, the
+combination of Original Code and any Modifications, and/or any
+respective portions thereof.
+
+1.4 "Deploy" means to use, sublicense or distribute Covered Code
+other than for Your internal research and development (R&D), and
+includes without limitation, any and all internal use or
+distribution of Covered Code within Your business or organization
+except for R&D use, as well as direct or indirect sublicensing or
+distribution of Covered Code by You to any third party in any form
+or manner.
+
+1.5 "Larger Work" means a work which combines Covered Code or
+portions thereof with code not governed by the terms of this License.
+
+1.6 "Modifications" mean any addition to, deletion from, and/or
+change to, the substance and/or structure of Covered Code. When code
+is released as a series of files, a Modification is: (a) any addition
+to or deletion from the contents of a file containing Covered Code;
+and/or (b) any new file or other representation of computer program
+statements that contains any part of Covered Code.
+
+1.7 "Original Code" means (a) the Source Code of a program or other
+work as originally made available by Apple under this License,
+including the Source Code of any updates or upgrades to such programs
+or works made available by Apple under this License, and that has
+been expressly identified by Apple as such in the header file(s) of
+such work; and (b) the object code compiled from such Source Code and
+originally made available by Apple under this License.
+
+1.8 "Source Code" means the human readable form of a program or other
+work that is suitable for making modifications to it, including all
+modules it contains, plus any associated interface definition files,
+scripts used to control compilation and installation of an executable
+(object code).
+
+1.9 "You" or "Your" means an individual or a legal entity exercising
+rights under this License. For legal entities, "You" or "Your"
+includes any entity which controls, is controlled by, or is under
+common control with, You, where "control" means (a) the power, direct
+or indirect, to cause the direction or management of such entity,
+whether by contract or otherwise, or (b) ownership of fifty percent
+(50%) or more of the outstanding shares or beneficial ownership of
+such entity.
+
+2. Permitted Uses; Conditions & Restrictions. Subject to the terms
+and conditions of this License, Apple hereby grants You, effective on
+the date You accept this License and download the Original Code, a
+world-wide, royalty-free, non-exclusive license, to the extent of
+Appleâ€™s Applicable Patent Rights and copyrights covering the Original
+Code, to do the following:
+
+2.1 You may use, copy, modify and distribute Original Code, with or
+without Modifications, solely for Your internal research and
+development, provided that You must in each instance:
+
+(a) retain and reproduce in all copies of Original Code the copyright
+and other proprietary notices and disclaimers of Apple as they
+appear in the Original Code, and keep intact all notices in the
+Original Code that refer to this License;
+
+(b) include a copy of this License with every copy of Source Code of
+Covered Code and documentation You distribute, and You may not offer
+or impose any terms on such Source Code that alter or restrict this
+License or the recipients' rights hereunder, except as permitted
+under Section 6; and
+
+(c) completely and accurately document all Modifications that you
+have made and the date of each such Modification, designate the
+version of the Original Code you used, prominently include a file
+carrying such information with the Modifications, and duplicate the
+notice in Exhibit A in each file of the Source Code of all such
+Modifications.
+
+2.2 You may Deploy Covered Code, provided that You must in each
+instance:
+
+(a) satisfy all the conditions of Section 2.1 with respect to the
+Source Code of the Covered Code;
+
+(b) make all Your Deployed Modifications publicly available in
+Source Code form via electronic distribution (e.g. download from a
+web site) under the terms of this License and subject to the license
+grants set forth in Section 3 below, and any additional terms You
+may choose to offer under Section 6. You must continue to make the
+Source Code of Your Deployed Modifications available for as long as
+you Deploy the Covered Code or twelve (12) months from the date of
+initial Deployment, whichever is longer;
+
+(c) if You Deploy Covered Code containing Modifications made by You,
+inform others of how to obtain those Modifications by filling out
+and submitting the information found at
+http://www.apple.com/publicsource/modifications.html, if available;
+and
+
+(d) if You Deploy Covered Code in object code, executable form only,
+include a prominent notice, in the code itself as well as in related
+documentation, stating that Source Code of the Covered Code is
+available under the terms of this License with information on how
+and where to obtain such Source Code.
+
+3. Your Grants. In consideration of, and as a condition to, the
+licenses granted to You under this License:
+
+(a) You hereby grant to Apple and all third parties a non-exclusive,
+royalty-free license, under Your Applicable Patent Rights and other
+intellectual property rights owned or controlled by You, to use,
+reproduce, modify, distribute and Deploy Your Modifications of the
+same scope and extent as Appleâ€™s licenses under Sections 2.1 and
+2.2; and
+
+(b) You hereby grant to Apple and its subsidiaries a non-exclusive,
+ worldwide, royalty-free, perpetual and irrevocable license, under
+Your Applicable Patent Rights and other intellectual property
+rights owned or controlled by You, to use, reproduce, execute,
+compile, display, perform, modify or have modified (for Apple and/or
+its subsidiaries), sublicense and distribute Your Modifications, in
+any form, through multiple tiers of distribution.
+
+4. Larger Works. You may create a Larger Work by combining Covered
+Code with other code not governed by the terms of this License and
+distribute the Larger Work as a single product. In each such
+instance, You must make sure the requirements of this License are
+fulfilled for the Covered Code or any portion thereof.
+
+5. Limitations on Patent License. Except as expressly stated in
+Section 2, no other patent rights, express or implied, are granted
+by Apple herein. Modifications and/or Larger Works may require
+additional patent licenses from Apple which Apple may grant in its
+sole discretion.
+
+6. Additional Terms. You may choose to offer, and to charge a fee
+for, warranty, support, indemnity or liability obligations and/or
+other rights consistent with the scope of the license granted
+herein ("Additional Terms") to one or more recipients of Covered
+Code. However, You may do so only on Your own behalf and as Your
+sole responsibility, and not on behalf of Apple. You must obtain
+the recipientâ€™s agreement that any such Additional Terms are
+offered by You alone, and You hereby agree to indemnify, defend and
+hold Apple harmless for any liability incurred by or claims asserted
+against Apple by reason of any such Additional Terms.
+
+7. Versions of the License. Apple may publish revised and/or new
+versions of this License from time to time. Each version will be
+given a distinguishing version number. Once Original Code has been
+published under a particular version of this License, You may
+continue to use it under the terms of that version. You may also
+choose to use such Original Code under the terms of any subsequent
+version of this License published by Apple. No one other than Apple
+has the right to modify the terms applicable to Covered Code
+created under this License.
+
+8. NO WARRANTY OR SUPPORT. The Original Code may contain in whole or
+in part pre-release, untested, or not fully tested works. The
+Original Code may contain errors that could cause failures or loss
+of data, and may be incomplete or contain inaccuracies. You
+expressly acknowledge and agree that use of the Original Code, or
+ any portion thereof, is at Your sole and entire risk. The Original
+Code is provided "AS IS" and without warranty, upgrades or support
+of any kind and Apple and Apple's licensor(s) (for the purposes of
+Sections 8 and 9, Apple and Apple's licensor(s) are collectively
+referred to as "Apple") EXPRESSLY DISCLAIM ALL WARRANTIES AND/OR
+CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY OR
+SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT OF THIRD PARTY RIGHTS. APPLE DOES NOT WARRANT THAT
+THE FUNCTIONS CONTAINED IN THE ORIGINAL CODE WILL MEET YOUR
+REQUIREMENTS, OR THAT THE OPERATION OF THE ORIGINAL CODE WILL BE
+UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE ORIGINAL CODE
+WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN
+BY APPLE OR AN APPLE AUTHORIZED REPRESENTATIVE SHALL CREATE A
+WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY. You
+acknowledge that the Original Code is not intended for use in the
+operation of nuclear facilities, aircraft navigation, communication
+systems, or air traffic control machines in which case the failure
+of the Original Code could lead to death, personal injury, or
+severe physical or environmental damage.
+
+9. Liability.
+
+9.1 Infringement. If any portion of, or functionality implemented
+by, the Original Code becomes the subject of a claim of
+infringement, Apple may, at its option: (a) attempt to procure the
+rights necessary for Apple and You to continue using the Affected
+Original Code; (b) modify the Affected Original Code so that it is
+no longer infringing; or (c) suspend Your rights to use, reproduce,
+modify, sublicense and distribute the Affected Original Code until
+a final determination of the claim is made by a court or
+governmental administrative agency of competent jurisdiction and
+Apple lifts the suspension as set forth below. Such suspension of
+rights will be effective immediately upon Apple's posting of a
+notice to such effect on the Apple web site that is used for
+implementation of this License. Upon such final determination being
+made, if Apple is legally able, without the payment of a fee or
+royalty, to resume use, reproduction, modification, sublicensing
+and distribution of the Affected Original Code, Apple will lift the
+suspension of rights to the Affected Original Code by posting a
+notice to such effect on the Apple web site that is used for
+implementation of this License. If Apple suspends Your rights to
+Affected Original Code, nothing in this License shall be construed
+to restrict You, at Your option and subject to applicable law, from
+replacing the Affected Original Code with non-infringing code or
+independently negotiating for necessary rights from such third
+party.
+
+9.2 LIMITATION OF LIABILITY. UNDER NO CIRCUMSTANCES SHALL APPLE BE
+LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL
+DAMAGES ARISING OUT OF OR RELATING TO THIS LICENSE OR YOUR USE OR
+INABILITY TO USE THE ORIGINAL CODE, OR ANY PORTION THEREOF, whether
+under a theory of contract, warranty, tort (including negligence),
+products liability or otherwise, even if APPLE has been advised of
+the possibility of such damages AND NOTWITHSTANDING THE FAILURE OF
+ESSENTIAL PURPOSE OF ANY REMEDY. In no event shall Apple's total
+liability to You for all damages under this License exceed the
+amount of fifty dollars ($50.00).
+
+10. Trademarks. This License does not grant any rights to use the
+trademarks or trade names "Apple", "Apple Computer", "Mac OS X",
+"Mac OS X Server" or any other trademarks or trade names belonging
+to Apple (collectively "Apple Marks") and no Apple Marks may be
+used to endorse or promote products derived from the Original Code
+other than as permitted by and in strict compliance at all times
+with Appleâ€™s third party trademark usage guidelines which are
+posted at http://www.apple.com/legal/guidelinesfor3rdparties.html.
+
+11. Ownership. Apple retains all rights, title and interest in and
+to the Original Code and any Modifications made by or on behalf of
+Apple ("Apple Modifications"), and such Apple Modifications will
+not be automatically subject to this License. Apple may, at its
+sole discretion, choose to license such Apple Modifications under
+this License, or on different terms from those contained in this
+License or may choose not to license them at all. Appleâ€™s
+development, use, reproduction, modification, sublicensing and
+distribution of Covered Code will not be subject to this License.
+
+12. Termination.
+
+12.1 Termination. This License and the rights granted hereunder
+will terminate:
+
+(a) automatically without notice from Apple if You fail to comply
+with any term(s) of this License and fail to cure such breach
+within 30 days of becoming aware of such breach;
+
+(b) immediately in the event of the circumstances described in
+Section 13.5(b); or
+
+(c) automatically without notice from Apple if You, at any time
+during the term of this License, commence an action for patent
+infringement against Apple.
+
+12.2 Effect of Termination. Upon termination, You agree to
+immediately stop any further use, reproduction, modification,
+sublicensing and distribution of the Covered Code and to destroy
+all copies of the Covered Code that are in your possession or
+control. All sublicenses to the Covered Code which have been
+properly granted prior to termination shall survive any
+ermination of this License. Provisions which, by their nature,
+should remain in effect beyond the termination of this License
+ shall survive, including but not limited to Sections 3, 5, 8, 9,
+10, 11, 12.2 and 13. Neither party will be liable to the other for
+compensation, indemnity or damages of any sort solely as a result
+of terminating this License in accordance with its terms, and
+termination of this License will be without prejudice to any other
+right or remedy of either party.
+
+13. Miscellaneous.
+
+13.1 Government End Users. The Covered Code is a "commercial item"
+as defined in FAR 2.101. Government software and technical data
+rights in the Covered Code include only those rights customarily
+provided to the public as defined in this License. This customary
+commercial license in technical data and software is provided in
+accordance with FAR 12.211 (Technical Data) and 12.212 (Computer
+Software) and, for Department of Defense purchases, DFAR
+252.227-7015 (Technical Data -- Commercial Items) and 227.7202-3
+(Rights in Commercial Computer Software or Computer Software
+Documentation). Accordingly, all U.S. Government End Users acquire
+Covered Code with only those rights set forth herein.
+
+13.2 Relationship of Parties. This License will not be construed
+as creating an agency, partnership, joint venture or any other
+form of legal association between You and Apple, and You will not
+represent to the contrary, whether expressly, by implication,
+appearance or otherwise.
+
+13.3 Independent Development. Nothing in this License will impair
+Apple's right to acquire, license, develop, have others develop
+for it, market and/or distribute technology or products that
+perform the same or similar functions as, or otherwise compete
+with, Modifications, Larger Works, technology or products that
+You may develop, produce, market or distribute.
+
+13.4 Waiver; Construction. Failure by Apple to enforce any
+provision of this License will not be deemed a waiver of future
+enforcement of that or any other provision. Any law or regulation
+which provides that the language of a contract shall be construed
+against the drafter will not apply to this License.
+
+13.5 Severability. (a) If for any reason a court of competent
+jurisdiction finds any provision of this License, or portion
+thereof, to be unenforceable, that provision of the License will
+be enforced to the maximum extent permissible so as to effect the
+economic benefits and intent of the parties, and the remainder of
+this License will continue in full force and effect. (b)
+Notwithstanding the foregoing, if applicable law prohibits or
+restricts You from fully and/or specifically complying with
+Sections 2 and/or 3 or prevents the enforceability of either of
+those Sections, this License will immediately terminate and You
+must immediately discontinue any use of the Covered Code and
+destroy all copies of it that are in your possession or control.
+
+13.6 Dispute Resolution. Any litigation or other dispute
+resolution between You and Apple relating to this License shall
+take place in the Northern District of California, and You and
+Apple hereby consent to the personal jurisdiction of, and venue
+in, the state and federal courts within that District with respect
+to this License. The application of the United Nations Convention
+on Contracts for the International Sale of Goods is expressly
+excluded.
+
+13.7 Entire Agreement; Governing Law. This License constitutes
+the entire agreement between the parties with respect to the
+subject matter hereof. This License shall be governed by the laws
+of the United States and the State of California, except that
+body of California law concerning conflicts of law.
+
+Where You are located in the province of Quebec, Canada, the
+following clause applies: The parties hereby confirm that they
+have requested that this License and all related documents be
+drafted in English. Les parties ont exigÃ© que le prÃ©sent
+contrat et tous les documents connexes soient rÃ©digÃ©s en anglais.
+
+EXHIBIT A.
+
+"Portions Copyright (c) 1999-2000 Apple Computer, Inc. All Rights
+Reserved.
+
+This file contains Original Code and/or Modifications of Original
+Code as defined in and that are subject to the Apple Public
+Source License Version 1.1 (the â€˜Licenseâ€™). You may not use this
+file except in compliance with the License. Please obtain a copy
+of the License at http://www.apple.com/publicsource and read it
+before using this file.
+
+The Original Code and all software distributed under the License
+are distributed on an â€˜AS ISâ€™ basis, WITHOUT WARRANTY OF ANY KIND,
+EITHER EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH
+WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR
+NON-INFRINGEMENT. Please see the License for the specific language
+governing rights and limitations under the License."
+
+Please read the terms of this license carefully. By clicking on
+the "Yes, I Accept" button below you are accepting and agreeing to
+the terms of this license with Apple Computer, Inc. If you are
+agreeing to this license on behalf of a company, you represent
+that you are authorized to bind the company to such a license. If
+you do not meet this criterion or you do not agree to any of the
+terms of this license, please click on the "No, I Reject" button
+below or use your browser's Back button to exit this page. Use the
+"Change Registration" button to update your information.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Component Name: Apple iOS SecurityFramework Library
+Website: https://opensource.apple.com/tarballs/Security/
+License: Apple Public Source License 2.0
+
+Disclaimer: APPLE PUBLIC SOURCE LICENSE
+Version 2.0 -  August 6, 2003
+
+Please read this License carefully before downloading this software.
+By downloading or using this software, you are agreeing to be bound by
+the terms of this License. If you do not or cannot agree to the terms
+of this License, please do not download or use the software.
+
+1. General; Definitions. This License applies to any program or other
+work which Apple Computer, Inc. ("Apple") makes publicly available and
+which contains a notice placed by Apple identifying such program or
+work as "Original Code" and stating that it is subject to the terms of
+this Apple Public Source License version 2.0 ("License"). As used in
+this License:
+
+1.1 "Applicable Patent Rights" mean: (a) in the case where Apple is
+the grantor of rights, (i) claims of patents that are now or hereafter
+acquired, owned by or assigned to Apple and (ii) that cover subject
+matter contained in the Original Code, but only to the extent
+necessary to use, reproduce and/or distribute the Original Code
+without infringement; and (b) in the case where You are the grantor of
+rights, (i) claims of patents that are now or hereafter acquired,
+owned by or assigned to You and (ii) that cover subject matter in Your
+Modifications, taken alone or in combination with Original Code.
+
+1.2 "Contributor" means any person or entity that creates or
+contributes to the creation of Modifications.
+
+1.3 "Covered Code" means the Original Code, Modifications, the
+combination of Original Code and any Modifications, and/or any
+respective portions thereof.
+
+1.4 "Externally Deploy" means: (a) to sublicense, distribute or
+otherwise make Covered Code available, directly or indirectly, to
+anyone other than You; and/or (b) to use Covered Code, alone or as
+part of a Larger Work, in any way to provide a service, including but
+not limited to delivery of content, through electronic communication
+with a client other than You.
+
+1.5 "Larger Work" means a work which combines Covered Code or portions
+thereof with code not governed by the terms of this License.
+
+1.6 "Modifications" mean any addition to, deletion from, and/or change
+to, the substance and/or structure of the Original Code, any previous
+Modifications, the combination of Original Code and any previous
+Modifications, and/or any respective portions thereof. When code is
+released as a series of files, a Modification is: (a) any addition to
+or deletion from the contents of a file containing Covered Code;
+and/or (b) any new file or other representation of computer program
+statements that contains any part of Covered Code.
+
+1.7 "Original Code" means (a) the Source Code of a program or other
+work as originally made available by Apple under this License,
+including the Source Code of any updates or upgrades to such programs
+or works made available by Apple under this License, and that has been
+expressly identified by Apple as such in the header file(s) of such
+work; and (b) the object code compiled from such Source Code and
+originally made available by Apple under this License.
+
+1.8 "Source Code" means the human readable form of a program or other
+work that is suitable for making modifications to it, including all
+modules it contains, plus any associated interface definition files,
+scripts used to control compilation and installation of an executable
+(object code).
+
+1.9 "You" or "Your" means an individual or a legal entity exercising
+rights under this License. For legal entities, "You" or "Your"
+includes any entity which controls, is controlled by, or is under
+common control with, You, where "control" means (a) the power, direct
+or indirect, to cause the direction or management of such entity,
+whether by contract or otherwise, or (b) ownership of fifty percent
+(50%) or more of the outstanding shares or beneficial ownership of
+such entity.
+
+2. Permitted Uses; Conditions & Restrictions. Subject to the terms
+and conditions of this License, Apple hereby grants You, effective on
+the date You accept this License and download the Original Code, a
+world-wide, royalty-free, non-exclusive license, to the extent of
+Apple's Applicable Patent Rights and copyrights covering the Original
+Code, to do the following:
+
+2.1 Unmodified Code. You may use, reproduce, display, perform,
+internally distribute within Your organization, and Externally Deploy
+verbatim, unmodified copies of the Original Code, for commercial or
+non-commercial purposes, provided that in each instance:
+
+(a) You must retain and reproduce in all copies of Original Code the
+copyright and other proprietary notices and disclaimers of Apple as
+they appear in the Original Code, and keep intact all notices in the
+Original Code that refer to this License; and
+
+(b) You must include a copy of this License with every copy of Source
+Code of Covered Code and documentation You distribute or Externally
+Deploy, and You may not offer or impose any terms on such Source Code
+that alter or restrict this License or the recipients' rights
+hereunder, except as permitted under Section 6.
+
+2.2 Modified Code. You may modify Covered Code and use, reproduce,
+display, perform, internally distribute within Your organization, and
+Externally Deploy Your Modifications and Covered Code, for commercial
+or non-commercial purposes, provided that in each instance You also
+meet all of these conditions:
+
+(a) You must satisfy all the conditions of Section 2.1 with respect to
+the Source Code of the Covered Code;
+
+(b) You must duplicate, to the extent it does not already exist, the
+notice in Exhibit A in each file of the Source Code of all Your
+Modifications, and cause the modified files to carry prominent notices
+stating that You changed the files and the date of any change; and
+
+(c) If You Externally Deploy Your Modifications, You must make
+Source Code of all Your Externally Deployed Modifications either
+available to those to whom You have Externally Deployed Your
+Modifications, or publicly available. Source Code of Your Externally
+Deployed Modifications must be released under the terms set forth in
+this License, including the license grants set forth in Section 3
+below, for as long as you Externally Deploy the Covered Code or twelve
+(12) months from the date of initial External Deployment, whichever is
+longer. You should preferably distribute the Source Code of Your
+Externally Deployed Modifications electronically (e.g. download from a
+web site).
+
+2.3 Distribution of Executable Versions. In addition, if You
+Externally Deploy Covered Code (Original Code and/or Modifications) in
+object code, executable form only, You must include a prominent
+notice, in the code itself as well as in related documentation,
+stating that Source Code of the Covered Code is available under the
+terms of this License with information on how and where to obtain such
+Source Code.
+
+2.4 Third Party Rights. You expressly acknowledge and agree that
+although Apple and each Contributor grants the licenses to their
+respective portions of the Covered Code set forth herein, no
+assurances are provided by Apple or any Contributor that the Covered
+Code does not infringe the patent or other intellectual property
+rights of any other entity. Apple and each Contributor disclaim any
+liability to You for claims brought by any other entity based on
+infringement of intellectual property rights or otherwise. As a
+condition to exercising the rights and licenses granted hereunder, You
+hereby assume sole responsibility to secure any other intellectual
+property rights needed, if any. For example, if a third party patent
+license is required to allow You to distribute the Covered Code, it is
+Your responsibility to acquire that license before distributing the
+Covered Code.
+
+3. Your Grants. In consideration of, and as a condition to, the
+licenses granted to You under this License, You hereby grant to any
+person or entity receiving or distributing Covered Code under this
+License a non-exclusive, royalty-free, perpetual, irrevocable license,
+under Your Applicable Patent Rights and other intellectual property
+rights (other than patent) owned or controlled by You, to use,
+reproduce, display, perform, modify, sublicense, distribute and
+Externally Deploy Your Modifications of the same scope and extent as
+Apple's licenses under Sections 2.1 and 2.2 above.
+
+4. Larger Works. You may create a Larger Work by combining Covered
+Code with other code not governed by the terms of this License and
+distribute the Larger Work as a single product. In each such instance,
+You must make sure the requirements of this License are fulfilled for
+the Covered Code or any portion thereof.
+
+5. Limitations on Patent License. Except as expressly stated in
+Section 2, no other patent rights, express or implied, are granted by
+Apple herein. Modifications and/or Larger Works may require additional
+patent licenses from Apple which Apple may grant in its sole
+discretion.
+
+6. Additional Terms. You may choose to offer, and to charge a fee for,
+warranty, support, indemnity or liability obligations and/or other
+rights consistent with the scope of the license granted herein
+("Additional Terms") to one or more recipients of Covered Code.
+However, You may do so only on Your own behalf and as Your sole
+responsibility, and not on behalf of Apple or any Contributor. You
+must obtain the recipient's agreement that any such Additional Terms
+are offered by You alone, and You hereby agree to indemnify, defend
+and hold Apple and every Contributor harmless for any liability
+incurred by or claims asserted against Apple or such Contributor by
+reason of any such Additional Terms.
+
+7. Versions of the License. Apple may publish revised and/or new
+versions of this License from time to time. Each version will be given
+a distinguishing version number. Once Original Code has been published
+under a particular version of this License, You may continue to use it
+under the terms of that version. You may also choose to use such
+Original Code under the terms of any subsequent version of this
+License published by Apple. No one other than Apple has the right to
+modify the terms applicable to Covered Code created under this
+License.
+
+8. NO WARRANTY OR SUPPORT. The Covered Code may contain in whole or in
+part pre-release, untested, or not fully tested works. The Covered
+Code may contain errors that could cause failures or loss of data, and
+may be incomplete or contain inaccuracies. You expressly acknowledge
+and agree that use of the Covered Code, or any portion thereof, is at
+Your sole and entire risk. THE COVERED CODE IS PROVIDED "AS IS" AND
+WITHOUT WARRANTY, UPGRADES OR SUPPORT OF ANY KIND AND APPLE AND
+APPLE'S LICENSOR(S) (COLLECTIVELY REFERRED TO AS "APPLE" FOR THE
+PURPOSES OF SECTIONS 8 AND 9) AND ALL CONTRIBUTORS EXPRESSLY DISCLAIM
+ALL WARRANTIES AND/OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT
+NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF
+MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR
+PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND NONINFRINGEMENT OF THIRD
+PARTY RIGHTS. APPLE AND EACH CONTRIBUTOR DOES NOT WARRANT AGAINST
+INTERFERENCE WITH YOUR ENJOYMENT OF THE COVERED CODE, THAT THE
+FUNCTIONS CONTAINED IN THE COVERED CODE WILL MEET YOUR REQUIREMENTS,
+THAT THE OPERATION OF THE COVERED CODE WILL BE UNINTERRUPTED OR
+ERROR-FREE, OR THAT DEFECTS IN THE COVERED CODE WILL BE CORRECTED. NO
+ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY APPLE, AN APPLE
+AUTHORIZED REPRESENTATIVE OR ANY CONTRIBUTOR SHALL CREATE A WARRANTY.
+You acknowledge that the Covered Code is not intended for use in the
+operation of nuclear facilities, aircraft navigation, communication
+systems, or air traffic control machines in which case the failure of
+the Covered Code could lead to death, personal injury, or severe
+physical or environmental damage.
+
+9. LIMITATION OF LIABILITY. TO THE EXTENT NOT PROHIBITED BY LAW, IN NO
+EVENT SHALL APPLE OR ANY CONTRIBUTOR BE LIABLE FOR ANY INCIDENTAL,
+SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING
+TO THIS LICENSE OR YOUR USE OR INABILITY TO USE THE COVERED CODE, OR
+ANY PORTION THEREOF, WHETHER UNDER A THEORY OF CONTRACT, WARRANTY,
+TORT (INCLUDING NEGLIGENCE), PRODUCTS LIABILITY OR OTHERWISE, EVEN IF
+APPLE OR SUCH CONTRIBUTOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY
+REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OF LIABILITY OF
+INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS LIMITATION MAY NOT APPLY
+TO YOU. In no event shall Apple's total liability to You for all
+damages (other than as may be required by applicable law) under this
+License exceed the amount of fifty dollars ($50.00).
+
+10. Trademarks. This License does not grant any rights to use the
+trademarks or trade names "Apple", "Apple Computer", "Mac", "Mac OS",
+"QuickTime", "QuickTime Streaming Server" or any other trademarks,
+service marks, logos or trade names belonging to Apple (collectively
+"Apple Marks") or to any trademark, service mark, logo or trade name
+belonging to any Contributor. You agree not to use any Apple Marks in
+or as part of the name of products derived from the Original Code or
+to endorse or promote products derived from the Original Code other
+than as expressly permitted by and in strict compliance at all times
+with Apple's third party trademark usage guidelines which are posted
+at http://www.apple.com/legal/guidelinesfor3rdparties.html.
+
+11. Ownership. Subject to the licenses granted under this License,
+each Contributor retains all rights, title and interest in and to any
+Modifications made by such Contributor. Apple retains all rights,
+title and interest in and to the Original Code and any Modifications
+made by or on behalf of Apple ("Apple Modifications"), and such Apple
+Modifications will not be automatically subject to this License. Apple
+may, at its sole discretion, choose to license such Apple
+Modifications under this License, or on different terms from those
+contained in this License or may choose not to license them at all.
+
+12. Termination.
+
+12.1 Termination. This License and the rights granted hereunder will
+terminate:
+
+(a) automatically without notice from Apple if You fail to comply with
+any term(s) of this License and fail to cure such breach within 30
+days of becoming aware of such breach;
+
+(b) immediately in the event of the circumstances described in Section
+13.5(b); or
+
+(c) automatically without notice from Apple if You, at any time during
+the term of this License, commence an action for patent infringement
+against Apple; provided that Apple did not first commence
+an action for patent infringement against You in that instance.
+
+12.2 Effect of Termination. Upon termination, You agree to immediately
+stop any further use, reproduction, modification, sublicensing and
+distribution of the Covered Code. All sublicenses to the Covered Code
+which have been properly granted prior to termination shall survive
+any termination of this License. Provisions which, by their nature,
+should remain in effect beyond the termination of this License shall
+survive, including but not limited to Sections 3, 5, 8, 9, 10, 11,
+12.2 and 13. No party will be liable to any other for compensation,
+indemnity or damages of any sort solely as a result of terminating
+this License in accordance with its terms, and termination of this
+License will be without prejudice to any other right or remedy of
+any party.
+
+13. Miscellaneous.
+
+13.1 Government End Users. The Covered Code is a "commercial item" as
+defined in FAR 2.101. Government software and technical data rights in
+the Covered Code include only those rights customarily provided to the
+public as defined in this License. This customary commercial license
+in technical data and software is provided in accordance with FAR
+12.211 (Technical Data) and 12.212 (Computer Software) and, for
+Department of Defense purchases, DFAR 252.227-7015 (Technical Data --
+Commercial Items) and 227.7202-3 (Rights in Commercial Computer
+Software or Computer Software Documentation). Accordingly, all U.S.
+Government End Users acquire Covered Code with only those rights set
+forth herein.
+
+13.2 Relationship of Parties. This License will not be construed as
+creating an agency, partnership, joint venture or any other form of
+legal association between or among You, Apple or any Contributor, and
+You will not represent to the contrary, whether expressly, by
+implication, appearance or otherwise.
+
+13.3 Independent Development. Nothing in this License will impair
+Apple's right to acquire, license, develop, have others develop for
+it, market and/or distribute technology or products that perform the
+same or similar functions as, or otherwise compete with,
+Modifications, Larger Works, technology or products that You may
+develop, produce, market or distribute.
+
+13.4 Waiver; Construction. Failure by Apple or any Contributor to
+enforce any provision of this License will not be deemed a waiver of
+future enforcement of that or any other provision. Any law or
+regulation which provides that the language of a contract shall be
+construed against the drafter will not apply to this License.
+
+13.5 Severability. (a) If for any reason a court of competent
+jurisdiction finds any provision of this License, or portion thereof,
+to be unenforceable, that provision of the License will be enforced to
+the maximum extent permissible so as to effect the economic benefits
+and intent of the parties, and the remainder of this License will
+continue in full force and effect. (b) Notwithstanding the foregoing,
+if applicable law prohibits or restricts You from fully and/or
+specifically complying with Sections 2 and/or 3 or prevents the
+enforceability of either of those Sections, this License will
+immediately terminate and You must immediately discontinue any use of
+the Covered Code and destroy all copies of it that are in your
+possession or control.
+
+13.6 Dispute Resolution. Any litigation or other dispute resolution
+between You and Apple relating to this License shall take place in the
+Northern District of California, and You and Apple hereby consent to
+the personal jurisdiction of, and venue in, the state and federal
+courts within that District with respect to this License. The
+application of the United Nations Convention on Contracts for the
+International Sale of Goods is expressly excluded.
+
+13.7 Entire Agreement; Governing Law. This License constitutes the
+entire agreement between the parties with respect to the subject
+matter hereof. This License shall be governed by the laws of the
+United States and the State of California, except that body of
+California law concerning conflicts of law.
+
+Where You are located in the province of Quebec, Canada, the following
+clause applies: The parties hereby confirm that they have requested
+that this License and all related documents be drafted in English. Les
+parties ont exige que le present contrat et tous les documents
+connexes soient rediges en anglais.
+
+EXHIBIT A.
+
+"Portions Copyright (c) 1999-2003 Apple Computer, Inc. All Rights
+Reserved.
+
+This file contains Original Code and/or Modifications of Original Code
+as defined in and that are subject to the Apple Public Source License
+Version 2.0 (the 'License'). You may not use this file except in
+compliance with the License. Please obtain a copy of the License at
+http://www.opensource.apple.com/apsl/ and read it before using this
+file.
+
+The Original Code and all software distributed under the License are
+distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER
+EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES,
+INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT.
+Please see the License for the specific language governing rights and
+limitations under the License."
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Component Name: foo_wave_seekbar
+Website: http://github.com/zao/foo_wave_seekbar/
+
+foobar2000 1.4 SDK
+Copyright (c) 2001-2018, Peter Pawlowski
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Neither the name of the author nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Component Name: Reachability
+Website: https://cocoapods.org/pods/Reachability
+License: BSD 2-clause "Simplified" License
+
+Copyright (c) 2011-2013, Tony Million.
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation
+and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Component Name: FreeBSD
+Website: http://www.freebsd.org
+License: BSD 3-clause "New" or "Revised" License
+--------------------------------------------------------------------------
+Component Name: JohnLangford vowpal wabbit
+Website: https://github.com/JohnLangford/vowpal_wabbit
+License: BSD 3-clause "New" or "Revised" License
+--------------------------------------------------------------------------
+Component Name: sctp-refimpl
+Website: http://code.google.com/p/sctp-refimpl/
+License: BSD 3-clause "New" or "Revised" License
+--------------------------------------------------------------------------
+Component Name: VNC Central
+Website: http://sourceforge.net/projects/vnccentral/
+License: BSD 3-clause "New" or "Revised" License
+--------------------------------------------------------------------------
+
+BSD 3-clause "New" or "Revised" License
+
+
+Copyright (c)
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+Neither the name of the <ORGANIZATION> nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Component Name: iamport-react-native
+Website: https://www.npmjs.org/package/iamport-react-native
+License: ISC License
+--------------------------------------------------------------------------
+Component Name: moengagesdk
+Website: https://www.npmjs.org/package/moengagesdk
+License: ISC License
+--------------------------------------------------------------------------
+Component Name: passport-spnego
+Website: https://www.npmjs.org/package/passport-spnego
+License: ISC License
+--------------------------------------------------------------------------
+
+ISC License
+
+ISC License (ISCL)
+
+Copyright (c) 4-digit year, Company or Person's Name
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Component Name: Code Project WPF Single Instance Application
+Website: https://www.codeproject.com/Articles/84270/WPF-Single-Instance-Application
+License: Microsoft Public License
+--------------------------------------------------------------------------
+
+Microsoft Public License
+
+Microsoft Public License (MS-PL)
+
+This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
+
+1. Definitions
+The terms "reproduce," "reproduction," "derivative works," and "distribution" have the
+same meaning here as under U.S. copyright law.
+
+A "contribution" is the original software, or any additions or changes to the software.
+
+A "contributor" is any person that distributes its contribution under this license.
+
+"Licensed patents" are a contributor's patent claims that read directly on its contribution.
+
+2. Grant of Rights
+
+(A) Copyright Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
+
+(B) Patent Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents to make, have made, use, sell, offer for sale, import, and/or otherwise dispose of its contribution in the software or derivative works of the contribution in the software.
+
+3. Conditions and Limitations
+
+(A) No Trademark License- This license does not grant you rights to use any contributors' name, logo, or trademarks.
+
+(B) If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically.
+
+(C) If you distribute any portion of the software, you must retain all copyright, patent, trademark, and attribution notices that are present in the software.
+
+(D) If you distribute any portion of the software in source code form, you may do so only under this license by including a complete copy of this license with your distribution. If you distribute any portion of the software in compiled or object code form, you may only do so under a license that complies with this license.
+
+(E) The software is licensed "as-is." You bear the risk of using it. The contributors give no express warranties, guarantees or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the contributors exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Component Name: @jairemix/capacitor-segment
+Website: https://www.npmjs.org/package/@jairemix/capacitor-segment
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: Alamofire
+Website: https://cocoapods.org/pods/Alamofire
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: alexids
+Website: http://code.google.com/p/alexids/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: APNS-Pusher
+Website: http://github.com/blommegard/APNS-Pusher/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: BCFeedScroller
+Website: http://github.com/priore/BCFeedScroller/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: breadwallet/breadwallet-ios
+Website: https://github.com/breadwallet/breadwallet-ios
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: BrightFutures
+Website: http://github.com/Thomvis/BrightFutures/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: BTGisterPost
+Website: http://github.com/LogikBlitz/BTGisterPost/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: bundle-rocket-sdk
+Website: https://www.npmjs.org/package/bundle-rocket-sdk
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: capacitor-firebase-analytics
+Website: https://www.npmjs.org/package/capacitor-firebase-analytics
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: capacitor-google-analytics
+Website: https://www.npmjs.org/package/capacitor-google-analytics
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: ccgus's fmdb
+Website: https://cocoapods.org/pods/FMDB
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: CDZPinger
+Website: http://github.com/cdzombak/CDZPinger/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: Colours-for-iOS
+Website: http://github.com/bennyguitar/Colours-for-iOS/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: cordova-plugin-google-firebase
+Website: https://www.npmjs.org/package/cordova-plugin-google-firebase
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: danwilson/google-analytics-plugin
+Website: https://github.com/danwilson/google-analytics-plugin
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: dongri/OAuthSwift
+Website: https://github.com/OAuthSwift/OAuthSwift
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: Edidoom
+Website: https://github.com/llatta/edison-graphics
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: expo/expo
+Website: https://github.com/expo/expo
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: FLAnimatedImage
+Website: http://github.com/Flipboard/FLAnimatedImage/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: Flight-School/AnyCodable
+Website: https://github.com/Flight-School/AnyCodable
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: GLKit_TD3D
+Website: http://github.com/71squared/GLKit_TD3D/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: iHasApp
+Website: http://github.com/danielamitay/iHasApp/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: iOS-LensRocket
+Website: http://github.com/Azure-Samples/iOS-LensRocket/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: iOS-PhotoCache
+Website: http://github.com/nhughes/iOS-PhotoCache/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: iOS-System-Services
+Website: http://github.com/Shmoopi/iOS-System-Services/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: JSON-CPP
+Website: http://tracker.debian.org/pkg/libjsoncpp
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: JXcore jxcore
+Website: https://github.com/jxcore/jxcore
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: Logical Error Graph
+Website: https://github.com/LogicalError/Graph
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: mavris MMLanScan
+Website: https://github.com/mavris/MMLanScan
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: MGPRemoteAssetController
+Website: http://github.com/magicalpanda/MGPRemoteAssetController/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: MGSwipeTableCell
+Website: http://github.com/MortimerGoro/MGSwipeTableCell/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: Michal Zaborowski MZAppearance
+Website: https://github.com/m1entus/MZAppearance
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: microsoft/WinObjC
+Website: hhttps://github.com/microsoft/WinObjC
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: minetest - celeron55/minetest
+Website: http://github.com/celeron55/minetest/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: MyDoorOpener-Arduino
+Website: http://github.com/yanavery/MyDoorOpener-Arduino/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: NCCWL
+Website: http://github.com/nickcheng/NCCWL/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: Notepad
+Website: https://github.com/ruddfawcett/Notepad
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: PhoneGap
+Website: http://github.com/phonegap/phonegap-start/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: PhoneNumberFormatter
+Website: http://github.com/enriquez/ECPhoneNumberFormatter/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: pia-foss tunnel-apple
+Website: https://github.com/pia-foss/tunnel-apple
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: PullableView
+Website: http://github.com/crocodella/PullableView/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: pushwoosh-ios-sdk
+Website: http://github.com/Pushwoosh/pushwoosh-ios-sdk/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: Reachability.swift
+Website: http://github.com/ashleymills/Reachability.swift/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: react-native-eos
+Website: https://www.npmjs.org/package/react-native-eos
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: renderboy
+Website: http://code.google.com/p/renderboy/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: roozy
+Website: http://code.google.com/p/roozy/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: s3d-plugin-zip
+Website: https://www.npmjs.org/package/s3d-plugin-zip
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: samiyr SwiftyPing
+Website: https://github.com/samiyr/SwiftyPing
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: SideMenu
+Website: http://github.com/jonkykong/SideMenu/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: ssziparchive
+Website: http://github.com/ZipArchive/ZipArchive/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: stitch-cordova-plugin-wkwebview
+Website: https://www.npmjs.org/package/stitch-cordova-plugin-wkwebview
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: SwiftyBeaver
+Website: https://github.com/SwiftyBeaver/SwiftyBeaver
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: TBXML
+Website: http://github.com/71squared/TBXML/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: TrustKit
+Website: http://github.com/datatheorem/TrustKit/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: VPPReachability
+Website: http://github.com/vicpenap/VPPReachability/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: WinObjC
+Website: http://github.com/Microsoft/WinObjC/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: WYPopoverController
+Website: http://github.com/nicolaschengdev/WYPopoverController/
+License: MIT License
+--------------------------------------------------------------------------
+Component Name: xenious-cordova-plugin-code-push
+Website: http://github.com/Microsoft/cordova-plugin-code-push/
+License: MIT License
+--------------------------------------------------------------------------
+
+MIT License
+
+The MIT License
+Copyright (c)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Component Name: OpenSSL
+Website: http://tracker.debian.org/pkg/openssl
+License: OpenSSL Combined License
+--------------------------------------------------------------------------
+Component Name: OpenSSL - in C
+Website: http://www.openssl.org
+License: OpenSSL Combined License
+--------------------------------------------------------------------------
+
+The OpenSSL toolkit stays under a double license, i.e. both the conditions of
+  the OpenSSL License and the original SSLeay license apply to the toolkit.
+  See below for the actual license texts.
+
+  OpenSSL License
+  ---------------
+
+/* ====================================================================
+ * Copyright (c) 1998-2019 The OpenSSL Project.  All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ *
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in
+ *    the documentation and/or other materials provided with the
+ *    distribution.
+ *
+ * 3. All advertising materials mentioning features or use of this
+ *    software must display the following acknowledgment:
+ *    "This product includes software developed by the OpenSSL Project
+ *    for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+ *
+ * 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
+ *    endorse or promote products derived from this software without
+ *    prior written permission. For written permission, please contact
+ *    openssl-core@openssl.org.
+ *
+ * 5. Products derived from this software may not be called "OpenSSL"
+ *    nor may "OpenSSL" appear in their names without prior written
+ *    permission of the OpenSSL Project.
+ *
+ * 6. Redistributions of any form whatsoever must retain the following
+ *    acknowledgment:
+ *    "This product includes software developed by the OpenSSL Project
+ *    for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
+ * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+ * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR
+ * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+ * NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ * OF THE POSSIBILITY OF SUCH DAMAGE.
+ * ====================================================================
+ *
+ * This product includes cryptographic software written by Eric Young
+ * (eay@cryptsoft.com).  This product includes software written by Tim
+ * Hudson (tjh@cryptsoft.com).
+ *
+ */
+
+ Original SSLeay License
+ -----------------------
+
+/* Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+ * All rights reserved.
+ *
+ * This package is an SSL implementation written
+ * by Eric Young (eay@cryptsoft.com).
+ * The implementation was written so as to conform with Netscapes SSL.
+ *
+ * This library is free for commercial and non-commercial use as long as
+ * the following conditions are aheared to.  The following conditions
+ * apply to all code found in this distribution, be it the RC4, RSA,
+ * lhash, DES, etc., code; not just the SSL code.  The SSL documentation
+ * included with this distribution is covered by the same copyright terms
+ * except that the holder is Tim Hudson (tjh@cryptsoft.com).
+ *
+ * Copyright remains Eric Young's, and as such any Copyright notices in
+ * the code are not to be removed.
+ * If this package is used in a product, Eric Young should be given attribution
+ * as the author of the parts of the library used.
+ * This can be in the form of a textual message at program startup or
+ * in documentation (online or textual) provided with the package.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ * 1. Redistributions of source code must retain the copyright
+ *    notice, this list of conditions and the following disclaimer.
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in the
+ *    documentation and/or other materials provided with the distribution.
+ * 3. All advertising materials mentioning features or use of this software
+ *    must display the following acknowledgement:
+ *    "This product includes cryptographic software written by
+ *     Eric Young (eay@cryptsoft.com)"
+ *    The word 'cryptographic' can be left out if the rouines from the library
+ *    being used are not cryptographic related :-).
+ * 4. If you include any Windows specific code (or a derivative thereof) from
+ *    the apps directory (application code) you must include an acknowledgement:
+ *    "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"
+ *
+ * THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND
+ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+ * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+ * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+ * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+ * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ *
+ * The licence and distribution terms for any publically available version or
+ * derivative of this code cannot be changed.  i.e. this code cannot simply be
+ * copied and put under another distribution licence
+ * [including the GNU Public Licence.]
+ */
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Component Name: Code Project - TOOL
+Website: http://www.codeproject.com/KB/applications/ToolPublic.aspx
+License: zlib License
+--------------------------------------------------------------------------
+
+
+This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
+
+2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+
+3. This notice may not be removed or altered from any source distribution.
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Component Name: Security Advisor Knowledge Library Open Source Packages
+
+department  related to  name                   license period  material / not material  license type  link                                                            remote version  installed version  author
+----------  ----------  ----                   --------------  -----------------------  ------------  ----                                                            --------------  -----------------  ------
+kessler     stuff       contentful             perpetual       material                 MIT           git+https://github.com/contentful/contentful.js.git             8.3.5           8.3.5              Contentful
+kessler     stuff       fp-ts                  perpetual       material                 MIT           git+https://github.com/gcanti/fp-ts.git                         2.10.5          2.10.5             Giulio Canti
+kessler     stuff       query-string           perpetual       material                 MIT           git+https://github.com/sindresorhus/query-string.git            7.0.1           7.0.1              Sindre Sorhus
+kessler     stuff       react                  perpetual       material                 MIT           git+https://github.com/facebook/react.git                       17.0.2          17.0.2             n/a
+kessler     stuff       react-dom              perpetual       material                 MIT           git+https://github.com/facebook/react.git                       17.0.2          17.0.2             n/a
+kessler     stuff       react-multi-carousel   perpetual       material                 MIT           git+https://github.com/YIZHUANG/react-multi-carousel.git        2.6.3           2.6.3              YI ZHUANG
+kessler     stuff       react-router-dom       perpetual       material                 MIT           git+https://github.com/ReactTraining/react-router.git           5.2.0           5.2.0              React Training
+kessler     stuff       react-shisell          perpetual       material                 MIT           git+https://github.com/Soluto/react-shisell.git                 3.3.0           3.3.0              Soluto
+kessler     stuff       react-use              perpetual       material                 Unlicense     git+https://github.com/streamich/react-use.git                  17.2.4          17.2.4             @streamich
+kessler     stuff       rxjs                   perpetual       material                 Apache-2.0    git+https://github.com/reactivex/rxjs.git                       7.1.0           7.0.1              Ben Lesh
+kessler     stuff       shisell                perpetual       material                 MIT           https://github.com/Soluto/shisell-js.git                        1.2.0           1.1.0              Soluto
+kessler     stuff       smoothscroll-polyfill  perpetual       material                 MIT           git+https://github.com/iamdustan/smoothscroll.git               0.4.4           0.4.4              Dustan Kasten
+kessler     stuff       styled-components      perpetual       material                 MIT           git+https://github.com/styled-components/styled-components.git  4.4.1           4.4.1              Glen Maddern
+kessler     stuff       web-vitals             perpetual       material                 Apache-2.0    git+https://github.com/GoogleChrome/web-vitals.git              1.1.2           1.0.1              Philip Walton
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+Component Name: Security Advisor Chat Library Open Source Packages
+
+Department	related to	Name	License period	Material / Not Material	License Type	Link	Remote Version	Installed Version	Author
+kessler	stuff	axios	perpetual	material	MIT	git+https://github.com/axios/axios.git	0.19.2	0.19.2	Matt Zabriskie
+kessler	stuff	bowser	perpetual	material	MIT	git+https://github.com/lancedikson/bowser.git	2.11.0	2.9.0	Dustin Diaz
+kessler	stuff	date-fns	perpetual	material	MIT	git+https://github.com/date-fns/date-fns.git	2.22.1	2.21.3	n/a
+kessler	stuff	lodash.clone	perpetual	material	MIT	git+https://github.com/lodash/lodash.git	4.5.0	4.5.0	John-David Dalton
+kessler	stuff	mobx	perpetual	material	MIT	git+https://github.com/mobxjs/mobx.git	4.15.7	4.13.0	Michel Weststrate
+kessler	stuff	mobx-react-lite	perpetual	material	MIT	git+https://github.com/mobxjs/mobx-react-lite.git	1.5.2	1.4.1	Daniel K.
+kessler	stuff	prop-types	perpetual	material	MIT	https://github.com/facebook/prop-types.git	15.7.2	15.7.2	n/a
+kessler	stuff	query-string	perpetual	material	MIT	git+https://github.com/sindresorhus/query-string.git	6.14.1	6.11.0	Sindre Sorhus
+kessler	stuff	react	perpetual	material	MIT	git+https://github.com/facebook/react.git	16.12.0	16.12.0	n/a
+kessler	stuff	react-dom	perpetual	material	MIT	git+https://github.com/facebook/react.git	16.12.0	16.12.0	n/a
+kessler	stuff	react-shisell	perpetual	material	MIT	git+https://github.com/Soluto/react-shisell.git	3.3.0	3.1.4	Soluto
+kessler	stuff	react-tweek	perpetual	material	MIT	git+https://github.com/Soluto/tweek-clients.git	0.7.1	0.7.0	Soluto
+kessler	stuff	rxjs	perpetual	material	Apache-2.0	git+https://github.com/reactivex/rxjs.git	6.6.3	6.6.3	Ben Lesh
+kessler	stuff	serialize-error	perpetual	material	MIT	git+https://github.com/sindresorhus/serialize-error.git	7.0.1	7.0.1	Sindre Sorhus
+kessler	stuff	styled-components	perpetual	material	MIT	git+https://github.com/styled-components/styled-components.git	5.3.0	5.1.1	Glen Maddern
+kessler	stuff	@babel/cli	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.5	7.8.4	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/core	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.6	7.8.4	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/plugin-proposal-class-properties	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.5	7.8.3	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/plugin-proposal-decorators	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.5	7.8.3	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/plugin-proposal-logical-assignment-operators	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.5	7.12.1	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/plugin-proposal-nullish-coalescing-operator	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.5	7.8.3	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/plugin-proposal-object-rest-spread	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.7	7.8.3	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/plugin-proposal-optional-chaining	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.5	7.8.3	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/plugin-transform-arrow-functions	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.5	7.8.3	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/preset-env	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.7	7.8.4	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/preset-react	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.5	7.8.3	The Babel Team (https://babel.dev/team)
+kessler	stuff	@babel/preset-typescript	perpetual	material	MIT	https://github.com/babel/babel.git	7.14.5	7.8.3	The Babel Team (https://babel.dev/team)
+kessler	stuff	@types/chai	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	4.2.19	4.2.12	n/a
+kessler	stuff	@types/fork-ts-checker-webpack-plugin	perpetual	material	MIT	https://github.com/Realytics/fork-ts-checker-webpack-plugin	0.4.5	0.4.5	n/a
+kessler	stuff	@types/lodash.clone	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	4.5.6	4.5.6	n/a
+kessler	stuff	@types/mockdate	perpetual	material	MIT	https://www.github.com/DefinitelyTyped/DefinitelyTyped.git	2.0.0	2.0.0	n/a
+kessler	stuff	@types/node	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	14.17.4	14.0.24	n/a
+kessler	stuff	@types/optimize-css-assets-webpack-plugin	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	5.0.3	5.0.1	n/a
+kessler	stuff	@types/react-textarea-autosize	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	4.3.5	4.3.3	n/a
+kessler	stuff	@types/sinon	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	7.5.2	7.0.11	n/a
+kessler	stuff	@types/speed-measure-webpack-plugin	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	1.3.3	1.3.0	n/a
+kessler	stuff	@types/webpack	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	4.41.29	4.41.21	n/a
+kessler	stuff	@types/webpack-bundle-analyzer	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	3.9.3	3.9.2	n/a
+kessler	stuff	babel-loader	perpetual	material	MIT	https://github.com/babel/babel-loader.git	8.2.2	8.0.6	Luis Couto <hello@luiscouto.pt>
+kessler	stuff	babel-plugin-styled-components	perpetual	material	MIT	https://github.com/styled-components/babel-plugin-styled-components.git	1.12.0	1.11.1	n/a
+kessler	stuff	base64-inline-loader	perpetual	material	MIT	git+ssh://git@github.com/monolithed/base64-inline-loader.git	1.1.1	1.1.1	Alexander Abashkin
+kessler	stuff	chai	perpetual	material	MIT	git+https://github.com/chaijs/chai.git	4.3.4	4.2.0	Jake Luer
+kessler	stuff	clean-webpack-plugin	perpetual	material	MIT	git+https://github.com/johnagan/clean-webpack-plugin.git	3.0.0	3.0.0	John Agan
+kessler	stuff	cross-env	perpetual	material	MIT	git+https://github.com/kentcdodds/cross-env.git	7.0.3	7.0.2	Kent C. Dodds
+kessler	stuff	dotenv	perpetual	material	BSD-2-Clause	git://github.com/motdotla/dotenv.git	8.6.0	8.2.0	n/a
+kessler	stuff	duplicate-package-checker-webpack-plugin	perpetual	material	MIT	git+https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin.git	3.0.0	3.0.0	Darren Scerri
+kessler	stuff	fork-ts-checker-webpack-plugin	perpetual	material	MIT	git+https://github.com/TypeStrong/fork-ts-checker-webpack-plugin.git	4.1.6	4.0.4	Piotr Oleâ‰ˆÃµ
+kessler	stuff	idempotent-babel-polyfill	perpetual	material	MIT	https://github.com/codejamninja/idempotent-babel-polyfill	7.4.4	7.4.4	Jam Risser
+kessler	stuff	mockdate	perpetual	material	MIT	git+https://github.com/boblauer/MockDate.git	2.0.5	2.0.2	Bob Lauer
+kessler	stuff	optimize-css-assets-webpack-plugin	perpetual	material	MIT	git+ssh://git@github.com/NMFR/optimize-css-assets-webpack-plugin.git	5.0.8	5.0.3	Nuno Rodrigues
+kessler	stuff	rimraf	perpetual	material	ISC	git://github.com/isaacs/rimraf.git	3.0.2	3.0.0	Isaac Z. Schlueter
+kessler	stuff	sinon	perpetual	material	BSD-3-Clause	git+ssh://git@github.com/sinonjs/sinon.git	7.5.0	7.3.2	Christian Johansen
+kessler	stuff	speed-measure-webpack-plugin	perpetual	material	MIT	git+https://github.com/stephencookdev/speed-measure-webpack-plugin.git	1.5.0	1.3.3	Stephen Cook
+kessler	stuff	terser-webpack-plugin	perpetual	material	MIT	git+https://github.com/webpack-contrib/terser-webpack-plugin.git	2.3.8	2.3.5	webpack Contrib Team
+kessler	stuff	ts-node	perpetual	material	MIT	git://github.com/TypeStrong/ts-node.git	8.10.2	8.10.2	Blake Embrey
+kessler	stuff	tsconfig-paths	perpetual	material	MIT	https://github.com/dividab/tsconfig-paths	3.9.0	3.9.0	Jonas Kello
+kessler	stuff	webpack	perpetual	material	MIT	git+https://github.com/webpack/webpack.git	4.46.0	4.41.6	Tobias Koppers @sokra
+kessler	stuff	webpack-bundle-analyzer	perpetual	material	MIT	git+https://github.com/webpack-contrib/webpack-bundle-analyzer.git	3.9.0	3.6.0	Yury Grunin
+kessler	stuff	webpack-cli	perpetual	material	MIT	git+https://github.com/webpack/webpack-cli.git	3.3.12	3.3.11	n/a
+kessler	stuff	yargs	perpetual	material	MIT	git+https://github.com/yargs/yargs.git	15.4.1	15.0.2	n/a
+kessler	stuff	js-cookie	perpetual	material	MIT	git://github.com/js-cookie/js-cookie.git	2.2.1	2.2.1	Klaus Hartl
+kessler	stuff	jwt-decode	perpetual	material	MIT	git://github.com/auth0/jwt-decode.git	2.2.0	2.2.0	Jose F. Romaniello
+kessler	stuff	ms	perpetual	material	MIT	git+https://github.com/vercel/ms.git	2.1.3	2.1.2	n/a
+kessler	stuff	@types/ms	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	0.7.31	0.7.31	n/a
+kessler	stuff	rrweb	perpetual	material	MIT	git+ssh://git@github.com/rrweb-io/rrweb.git	0.8.5	0.8.1	yanzhen@smartx.com
+kessler	stuff	react-i18next	perpetual	material	MIT	git+https://github.com/i18next/react-i18next.git	11.11.0	11.8.12	Jan MÃ¼hlemann
+kessler	stuff	@types/styled-components	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	4.4.3	4.1.14	n/a
+kessler	stuff	async-retry	perpetual	material	MIT	git+https://github.com/zeit/async-retry.git	1.3.1	1.3.1	n/a
+kessler	stuff	@types/async-retry	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	1.4.2	1.4.1	n/a
+kessler	stuff	i18next	perpetual	material	MIT	git+https://github.com/i18next/i18next.git	20.3.2	20.2.1	Jan MÃ¼hlemann
+kessler	stuff	@types/js-cookie	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	2.2.6	2.2.1	n/a
+kessler	stuff	shisell	perpetual	material	MIT	git+https://github.com/Soluto/shisell-js.git	0.3.4	0.3.4	Soluto
+kessler	stuff	@types/prop-types	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	15.7.3	15.7.3	n/a
+kessler	stuff	@types/react	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	16.14.8	16.9.20	n/a
+kessler	stuff	@types/react-dom	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	16.9.13	16.9.5	n/a
+kessler	stuff	uuid	perpetual	material	MIT	git+https://github.com/uuidjs/uuid.git	3.4.0	3.4.0	n/a
+kessler	stuff	twilio-client	perpetual	material	Apache-2.0	git+ssh://git@github.com/twilio/twilio-client.js.git	1.14.0	1.14.0	n/a
+kessler	stuff	@types/classnames	perpetual	material	MIT	https://registry.npmjs.org/@types/classnames/-/classnames-2.3.1.tgz	2.3.1	2.2.9	n/a
+kessler	stuff	@types/uuid	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	3.4.4	3.4.4	n/a
+kessler	stuff	classnames	perpetual	material	MIT	git+https://github.com/JedWatson/classnames.git	2.3.1	2.2.6	Jed Watson
+kessler	stuff	use-debounce	perpetual	material	MIT	git+ssh://git@github.com/xnimorz/use-debounce.git	3.4.3	3.3.0	Nikita Mostovoy
+kessler	stuff	react-flip-toolkit	perpetual	material	MIT	git+https://github.com/aholachek/react-flip-toolkit.git	7.0.13	7.0.7	Alex Holachek
+kessler	stuff	react-transition-group	perpetual	material	BSD-3-Clause	git+https://github.com/reactjs/react-transition-group.git	4.4.2	4.2.2	n/a
+kessler	stuff	@types/react-transition-group	perpetual	material	MIT	https://github.com/DefinitelyTyped/DefinitelyTyped.git	4.4.1	4.2.3	n/a
+kessler	stuff	@typescript-eslint/eslint-plugin	perpetual	material	MIT	git+https://github.com/typescript-eslint/typescript-eslint.git	3.10.1	3.10.1	n/a
+kessler	stuff	@typescript-eslint/parser	perpetual	material	BSD-2-Clause	git+https://github.com/typescript-eslint/typescript-eslint.git	3.10.1	3.10.1	n/a
+kessler	stuff	bundlesize	perpetual	material	MIT	git+https://github.com/siddharthkp/bundlesize.git	0.18.1	0.18.0	siddharthkp
+kessler	stuff	eslint	perpetual	material	MIT	git+https://github.com/eslint/eslint.git	6.8.0	6.8.0	Nicholas C. Zakas
+kessler	stuff	eslint-config-prettier	perpetual	material	MIT	git+https://github.com/prettier/eslint-config-prettier.git	6.15.0	6.11.0	Simon Lydell
+kessler	stuff	eslint-plugin-cypress	perpetual	material	MIT	git+https://github.com/cypress-io/eslint-plugin-cypress.git	2.11.3	2.10.1	Chris Breiding
+kessler	stuff	eslint-plugin-i18next	perpetual	material	ISC	git+https://github.com/edvardchen/eslint-plugin-i18next.git	5.1.1	5.1.0	edvardchen
+kessler	stuff	eslint-plugin-react	perpetual	material	MIT	git+https://github.com/yannickcr/eslint-plugin-react.git	7.24.0	7.18.3	Yannick Croissant
+kessler	stuff	lint-staged	perpetual	material	MIT	git+https://github.com/okonet/lint-staged.git	10.5.4	10.5.4	Andrey Okonetchnikov
+kessler	stuff	pre-commit	perpetual	material	MIT	git://github.com/observing/pre-commit.git	1.2.2	1.2.2	Arnout Kazemier
+kessler	stuff	prettier	perpetual	material	MIT	git+https://github.com/prettier/prettier.git	2.3.2	2.1.2	James Long
+kessler	stuff	ts-jest	perpetual	material	MIT	git+https://github.com/kulshekhar/ts-jest.git	26.5.6	26.5.5	Kulshekhar Kabra
+kessler	stuff	typescript	perpetual	material	Apache-2.0	git+https://github.com/Microsoft/TypeScript.git	4.3.4	4.0.2	Microsoft Corp.
+kessler	stuff	yaml-lint	perpetual	material	MIT	git://github.com/rasshofer/yaml-lint.git	1.2.4	1.2.4	Thomas Rasshofer

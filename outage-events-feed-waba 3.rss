@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+  	<title>WhatsApp Business API Status</title>
+  	<link>https://metastatus.com/whatsapp-business-api</link>
+  	<atom:link href="https://metastatus.com/outage-events-feed-waba.rss" rel="self" type="application/rss+xml" />
+  	<description>Status updates for WhatsApp Business API</description>
+  	<lastBuildDate>Wed, 14 Dec 2022 02:41:34 GMT</lastBuildDate>
+  	<item>
+        		<title>[Major disruptions]: WhatsApp Business Account Management</title>
+        		<link>https://metastatus.com/whatsapp-business-api</link>
+        		<guid isPermaLink="false">WhatsApp Business Account Management update at: Wed, 14 Dec 2022 02:39:49 GMT</guid>
+        		<description>We are aware of an issue that may be impacting managing message templates, managing shared WhatsApp Business accounts, managing shared credit lines, managing phone numbers, accessing insights. Our engineering teams are actively looking to resolve the issue as quickly as possible.</description>
+        		<pubDate>Wed, 14 Dec 2022 02:39:49 GMT</pubDate>
+        	</item>
+        	<item>
+        		<title>[Major disruptions]: Cloud API</title>
+        		<link>https://metastatus.com/whatsapp-business-api</link>
+        		<guid isPermaLink="false">Cloud API update at: Tue, 13 Dec 2022 22:59:01 GMT</guid>
+        		<description>We are aware of an issue that may be impacting send messages, receive messages. Our engineering teams are actively looking to resolve the issue as quickly as possible.</description>
+        		<pubDate>Tue, 13 Dec 2022 22:59:01 GMT</pubDate>
+        	</item>
+        	<item>
+        		<title>[Major disruptions]: Cloud API</title>
+        		<link>https://metastatus.com/whatsapp-business-api</link>
+        		<guid isPermaLink="false">Cloud API update at: Wed, 14 Dec 2022 02:41:34 GMT</guid>
+        		<description>We are aware of an issue that may be impacting send messages. Our engineering teams are actively looking to resolve the issue as quickly as possible.</description>
+        		<pubDate>Wed, 14 Dec 2022 02:41:34 GMT</pubDate>
+        	</item>
+        
+  </channel>
+
+  </rss>
+  
